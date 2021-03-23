@@ -120,6 +120,29 @@ Returns true if an array contains the given value.
 
 .. end_array_contains_section
 
+.. array_count_section
+
+.. _expression_function_Arrays_array_count:
+
+array_count
+...........
+
+Counts the number of occurrences of a given value in an array.
+
+.. list-table::
+   :widths: 15 85
+
+   * - Syntax
+     - array_count(array, value)
+   * - Arguments
+     - * **array** - an array
+       * **value** - the value to count
+   * - Examples
+     - * ``array_count(array('a', 'b', 'c', 'b'), 'b')`` → 2
+
+
+.. end_array_count_section
+
 .. array_distinct_section
 
 .. _expression_function_Arrays_array_distinct:
@@ -163,8 +186,8 @@ Returns an array with only the items for which the expression evaluates to true.
        * **expression** - an expression to evaluate on each item. The variable `@element` will be replaced by the current value.
        * **limit** - maximum number of elements to be returned. Use 0 to return all values.
    * - Examples
-     - * ``array_filter(array(1,2,3),@element &lt; 3)`` → [ 1, 2 ]
-       * ``array_filter(array(1,2,3),@element &lt; 3, 1)`` → [ 1 ]
+     - * ``array_filter(array(1,2,3),@element < 3)`` → [ 1, 2 ]
+       * ``array_filter(array(1,2,3),@element < 3, 1)`` → [ 1 ]
 
 
 .. end_array_filter_section
@@ -360,18 +383,35 @@ Returns the number of elements of an array.
 array_majority
 ..............
 
-Returns an array containing the most common value in an array. The returned array may contain more than one value if multiple values occur equally often.
+Returns the most common values in an array.
 
 .. list-table::
    :widths: 15 85
 
    * - Syntax
-     - array_majority(array)
+     - array_majority(array, [option='all'])
+
+       [] marks optional arguments
    * - Arguments
      - * **array** - an array
+       * **option='all'** - a string specifying the return values handling. Valid options are:
+
+         
+
+         * all: Default, all most common values are returned in an array.
+         * any: Returns one of the most common values.
+         * median: Returns the median of the most common values. Non arithmetic values are ignored.
+         * real_majority: Returns the value which occurs more than half the size of the array.
+         
+
    * - Examples
-     - * ``array_majority(array(0,1,42,42,43))`` → [ 42 ]
-       * ``array_majority(array(0,0,1,2,2,42))`` → [ 0, 2 ]
+     - * ``array_majority(array(0,1,42,42,43), 'all')`` → [ 42 ]
+       * ``array_majority(array(0,1,42,42,43,1), 'all')`` → [ 42, 1 ]
+       * ``array_majority(array(0,1,42,42,43,1), 'any')`` → 1 or 42
+       * ``array_majority(array(0,1,1,2,2), 'median')`` → 1.5
+       * ``array_majority(array(0,1,42,42,43), 'real_majority')`` → NULL
+       * ``array_majority(array(0,1,42,42,43,42), 'real_majority')`` → NULL
+       * ``array_majority(array(0,1,42,42,43,42,42), 'real_majority')`` → 42
 
 
 .. end_array_majority_section
@@ -466,6 +506,46 @@ Returns the minimum value of an array.
 
 .. end_array_min_section
 
+.. array_minority_section
+
+.. _expression_function_Arrays_array_minority:
+
+array_minority
+..............
+
+Returns the less common values in an array.
+
+.. list-table::
+   :widths: 15 85
+
+   * - Syntax
+     - array_minority(array, [option='all'])
+
+       [] marks optional arguments
+   * - Arguments
+     - * **array** - an array
+       * **option='all'** - a string specifying the return values handling. Valid options are:
+
+         
+
+         * all: Default, all less common values are returned in an array.
+         * any: Returns one of the less common values.
+         * median: Returns the median of the less common values. Non arithmetic values are ignored.
+         * real_minority: Returns values which occur less than half the size of the array.
+         
+
+   * - Examples
+     - * ``array_minority(array(0,42,42), 'all')`` → [ 0 ]
+       * ``array_minority(array(0,1,42,42), 'all')`` → [ 0, 1 ]
+       * ``array_minority(array(0,1,42,42,43,1), 'any')`` → 0 or 43
+       * ``array_minority(array(1,2,3,3), 'median')`` → 1.5
+       * ``array_minority(array(0,1,42,42,43), 'real_minority')`` → [ 42, 43, 0, 1 ]
+       * ``array_minority(array(0,1,42,42,43,42), 'real_minority')`` → [ 42, 43, 0, 1 ]
+       * ``array_minority(array(0,1,42,42,43,42,42), 'real_minority')`` → [ 43, 0, 1 ]
+
+
+.. end_array_minority_section
+
 .. array_prepend_section
 
 .. _expression_function_Arrays_array_prepend:
@@ -488,6 +568,30 @@ Returns an array with the given value added at the beginning.
 
 
 .. end_array_prepend_section
+
+.. array_prioritize_section
+
+.. _expression_function_Arrays_array_prioritize:
+
+array_prioritize
+................
+
+Returns an array sorted using the ordering specified in another array. Values which are present in the first array but are missing from the second array will be added to the end of the result.
+
+.. list-table::
+   :widths: 15 85
+
+   * - Syntax
+     - array_prioritize(array, array_prioritize)
+   * - Arguments
+     - * **array** - an array
+       * **array_prioritize** - an array with values ordered by priority
+   * - Examples
+     - * ``array_prioritize(array(1, 8, 2, 5), array(5, 4, 2, 1, 3, 8))`` → [ 5, 2, 1, 8 ]
+       * ``array_prioritize(array(5, 4, 2, 1, 3, 8), array(1, 8, 6, 5))`` → [ 1, 8, 5, 4, 2, 3 ]
+
+
+.. end_array_prioritize_section
 
 .. array_remove_all_section
 
@@ -534,6 +638,52 @@ Returns an array with the given index removed.
 
 
 .. end_array_remove_at_section
+
+.. array_replace_section
+
+.. _expression_function_Arrays_array_replace:
+
+array_replace
+.............
+
+Returns an array with the supplied value, array, or map of values replaced.
+
+**Value & array variant**
+
+Returns an array with the supplied value or array of values replaced by another value or an array of values.
+
+.. list-table::
+   :widths: 15 85
+
+   * - Syntax
+     - array_replace(array, before, after)
+   * - Arguments
+     - * **array** - the input array
+       * **before** - the value or array of values to replace
+       * **after** - the value or array of values to use as a replacement
+   * - Examples
+     - * ``array_replace(array('QGIS','SHOULD','ROCK'),'SHOULD','DOES')`` → [ 'QGIS', 'DOES', 'ROCK' ]
+       * ``array_replace(array(3,2,1),array(1,2,3),array(7,8,9))`` → [ 9, 8, 7 ]
+       * ``array_replace(array('Q','G','I','S'),array('Q','S'),'-')`` → [ '-', 'G', 'I', '-' ]
+
+
+**Map variant**
+
+Returns an array with the supplied map keys replaced by their paired values.
+
+.. list-table::
+   :widths: 15 85
+
+   * - Syntax
+     - array_replace(array, map)
+   * - Arguments
+     - * **array** - the input array
+       * **map** - the map containing keys and values
+   * - Examples
+     - * ``array_replace(array('APP', 'SHOULD', 'ROCK'),map('APP','QGIS','SHOULD','DOES'))`` → [ 'QGIS', 'DOES', 'ROCK' ]
+
+
+.. end_array_replace_section
 
 .. array_reverse_section
 

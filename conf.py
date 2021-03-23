@@ -49,6 +49,7 @@ extensions = [
     'sphinx.ext.doctest',
     'sphinx.ext.extlinks',
     'sphinxext.rediraffe',
+    'sphinx_togglebutton',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -119,9 +120,10 @@ html_favicon = 'static/common/qgis_logo.ico'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['static']
 
-## Set a bullet character for :menuselection: role
+# Set a bullet character for :menuselection: role
+# easier to identify in non latin languages, e.g. japanese
 from sphinx.roles import MenuSelection
-MenuSelection.BULLET_CHARACTER = '\N{BLACK RIGHT-POINTING POINTER}'
+MenuSelection.BULLET_CHARACTER = '\u25BA' #'\N{BLACK RIGHT-POINTING POINTER}'
 
 ## for rtd themes, creating a html_context for the version/language part
 
@@ -238,8 +240,9 @@ latex_use_parts = False
 # If false, no module index is generated.
 #latex_use_modindex = True
 
+
 latex_elements = {
-  # The paper size ('letterpaper' or 'a4paper').
+    # The paper size ('letterpaper' or 'a4paper').
     'papersize': 'a4paper',
 
     # The font size ('10pt', '11pt' or '12pt').
@@ -259,9 +262,14 @@ latex_elements = {
     \\newunicodechar{≤}{$\leq$}
     \\newunicodechar{π}{$\pi$}
     \\newunicodechar{㎡}{$m^2$}
+    \\newunicodechar{\u25BA}{$\u25BA$}
     \\newunicodechar{′}{\ensuremath{^{\prime}}}
     \\newunicodechar{″}{\ensuremath{^{\prime\prime}}}
-    \\newunicodechar{​}{ }'''
+    \\newunicodechar{​}{ }''',
+
+    # Latex figure float alignment
+    # use ‘H’ to disable floating, and position the figures strictly in the order they appear in the source
+    'figure_align': 'H'
 }
 
 # Special case of korean that need different latex settings to work

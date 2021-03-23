@@ -131,23 +131,24 @@ Date and Time Functions
 ------------------------
 
 This group contains functions for handling date and time data.
-This group shares several functions with the :ref:`conversion_functions` (
-to_date, to_time, to_datetime, to_interval) and :ref:`string_functions`
+This group shares several functions with the :ref:`conversion_functions`
+(to_date, to_time, to_datetime, to_interval) and :ref:`string_functions`
 (format_date) groups.
 
 .. note:: **Storing date, datetime and intervals on fields**
 
    The ability to store *date*, *time* and *datetime* values directly on
-   fields may depend on the data source's provider (e.g., Shapefile accepts
+   fields depends on the data source's provider (e.g., Shapefile accepts
    *date* format, but not *datetime* or *time* format). The following are some
    suggestions to overcome this limitation:
 
-   * *date*, *Datetime* and *time* can be stored in text type fields after
-     using the ``to_format()`` function.
+   * *date*, *datetime* and *time* can be converted and stored in text type fields
+     using the :ref:`format_date() <expression_function_Date_and_Time_format_date>`
+     function.
 
    * *Intervals* can be stored in integer or decimal type fields after using
-     one of the date extraction functions (e.g., ``day()`` to get the interval
-     expressed in days)
+     one of the date extraction functions (e.g., :ref:`day() <expression_function_Date_and_Time_day>`
+     to get the interval expressed in days)
 
 .. contents::
    :local:
@@ -258,13 +259,6 @@ This group contains general assorted functions.
 
 .. include:: expression_help/General.rst
    :start-after: :orphan:
-   :end-before: .. end_layer_property_section
-
-Further reading: :ref:`vector <vectorinformationmenu>`, :ref:`raster <raster_information>`
-and :ref:`mesh <mesh_information>` layer properties
-
-.. include:: expression_help/General.rst
-   :start-after: .. end_layer_property_section
    :end-before: .. end_var_section
 
 Further reading: List of default :ref:`variables <expression_variables>`
@@ -632,6 +626,13 @@ It also provides some convenient functions to manipulate layers.
 
 .. include:: expression_help/Map_Layers.rst
    :start-after: :orphan:
+   :end-before: .. end_layer_property_section
+
+Further reading: :ref:`vector <vectorinformationmenu>`, :ref:`raster <raster_information>`
+and :ref:`mesh <mesh_information>` layer properties
+
+.. include:: expression_help/Map_Layers.rst
+   :start-after: .. end_layer_property_section
 
 
 .. index:: Map data structure, Dictionary, Key-value pairs, Associative arrays
@@ -864,7 +865,7 @@ To use these variables in an expression, they should be preceded by the
 ``@`` character (e.g, ``@row_number``).
 
 .. csv-table::
-   :header: "Function", "Description"
+   :header: "Variable", "Description"
    :widths: 25, 70
 
    "algorithm_id", "The unique ID of an algorithm"

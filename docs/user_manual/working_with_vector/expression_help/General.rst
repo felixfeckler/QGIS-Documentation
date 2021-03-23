@@ -70,7 +70,7 @@ Evaluates a template which is passed in a string. Useful to expand dynamic param
    * - Arguments
      - * **template** - a template string
    * - Examples
-     - * ``eval_template('QGIS [% upper(\\'rocks\\') %]')`` → QGIS ROCKS
+     - * ``eval_template('QGIS [% upper(\'rocks\') %]')`` → QGIS ROCKS
 
 
 .. end_eval_template_section
@@ -97,57 +97,28 @@ Returns true if a specified layer is visible.
 
 .. end_is_layer_visible_section
 
-.. layer_property_section
+.. mime_type_section
 
-.. _expression_function_General_layer_property:
+.. _expression_function_General_mime_type:
 
-layer_property
-..............
+mime_type
+.........
 
-Returns a matching layer property or metadata value.
+Returns the mime type of the binary data.
 
 .. list-table::
    :widths: 15 85
 
    * - Syntax
-     - layer_property(layer, property)
+     - mime_type(bytes)
    * - Arguments
-     - * **layer** - a string, representing either a layer name or layer ID
-       * **property** - a string corresponding to the property to return. Valid options are:
-
-         
-
-         * name: layer name
-         * id: layer ID
-         * title: metadata title string
-         * abstract: metadata abstract string
-         * keywords: metadata keywords
-         * data_url: metadata URL
-         * attribution: metadata attribution string
-         * attribution_url: metadata attribution URL
-         * source: layer source
-         * min_scale: minimum display scale for layer
-         * max_scale: maximum display scale for layer
-         * is_editable: if layer is in edit mode
-         * crs: layer CRS
-         * crs_definition: layer CRS full definition
-         * crs_description: layer CRS description
-         * extent: layer extent (as a geometry object)
-         * distance_units: layer distance units
-         * type: layer type, e.g., Vector or Raster
-         * storage_type: storage format (vector layers only)
-         * geometry_type: geometry type, e.g., Point (vector layers only)
-         * feature_count: approximate feature count for layer (vector layers only)
-         * path: File path to the layer data source. Only available for file based layers.
-         
-
+     - * **bytes** - the binary data
    * - Examples
-     - * ``layer_property('streets','title')`` → 'Basemap Streets'
-       * ``layer_property('airports','feature_count')`` → 120
-       * ``layer_property('landsat','crs')`` → 'EPSG:4326'
+     - * ``mime_type('<html><body></body></html>')`` → text/html
+       * ``mime_type(from_base64('R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAIAOw=='))`` → image/gif
 
 
-.. end_layer_property_section
+.. end_mime_type_section
 
 .. var_section
 

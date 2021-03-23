@@ -1,5 +1,5 @@
-[![HTML Build](https://github.com/qgis/QGIS-Documentation/workflows/HTML%20build/badge.svg?branch=master)](https://github.com/qgis/QGIS-Documentation/actions?query=branch%3Amaster+workflow%3A%22HTML+build%22)
-[![Doctest Build](https://github.com/qgis/QGIS-Documentation/workflows/Doctest%20build/badge.svg?branch=master)](https://github.com/qgis/QGIS-Documentation/actions?query=branch%3Amaster+workflow%3A%22Doctest+build%22)
+[![Docs Builds](https://github.com/qgis/QGIS-Documentation/workflows/Docs%20builds/badge.svg?branch=master)](https://github.com/qgis/QGIS-Documentation/actions/workflows/builds.yml?query=branch%3Amaster+event%3Apush)
+[![Doctest Build](https://github.com/qgis/QGIS-Documentation/workflows/Doctest%20build/badge.svg?branch=master)](https://github.com/qgis/QGIS-Documentation/actions/workflows/doctest.yml?query=branch%3Amaster+event%3Apush)
 [![Read the documentation](https://img.shields.io/badge/Read-the%20docs-green.svg)](https://docs.qgis.org/testing/)
 
 
@@ -141,16 +141,16 @@ Or after you enabled the venv:
 make pdf
 ```
 
-For building PDFs you will need to install the XeLaTex compiler package `textlive-xetex` and GNU Freefont.
-
-```
-sudo apt install textlive-xetex fonts-freefont
-```
-
 If you want to build PDFs in a language other than English, you can use a similar syntax:
 
 ```
 make LANG=fr pdf
+```
+
+For building PDFs in English you will need to install the XeLaTex compiler package `texlive-xetex` and GNU Freefont.
+
+```
+sudo apt install texlive-xetex font-freefonts-otf
 ```
 
 For building translated PDFs, you may have to install the texlive extra package
@@ -208,10 +208,10 @@ To do so, you need to manually pull the translations from Transifex to your loca
    ```
    ./scripts/create_transifex_resources.sh
    ```
-1. Download the translated strings using the [minimize_translation script](scripts/create_transifex_resources.sh).
+1. Download the translated strings using the [minimize_translation script](scripts/minimize_translation.sh).
    By default this pulls all the languages.
    ```
-   ./scripts/create_transifex_resources.sh
+   ./scripts/minimize_translation.sh
    ```
    IMPORTANT: to be able to pull from transifex.com, you will need a credentials file. 
    This file should be named: ``.transifexrc`` and easiest is to put it in your home dir. 

@@ -689,7 +689,7 @@ Returns a geometry from a GML representation of geometry.
    * - Arguments
      - * **gml** - GML representation of a geometry as a string
    * - Examples
-     - * ``geom_from_gml('&lt;gml:LineString srsName="EPSG:4326"&gt;&lt;gml:coordinates&gt;4,4 5,5 6,6&lt;/gml:coordinates&gt;&lt;/gml:LineString&gt;')`` → a line geometry object
+     - * ``geom_from_gml('<gml:LineString srsName="EPSG:4326"><gml:coordinates>4,4 5,5 6,6</gml:coordinates></gml:LineString>')`` → a line geometry object
 
 
 .. end_geom_from_gml_section
@@ -1194,6 +1194,28 @@ Calculate the length of a geometry line object. Calculations are always planimet
 
 
 .. end_length_section
+
+.. length3D_section
+
+.. _expression_function_GeometryGroup_length3D:
+
+length3D
+........
+
+Calculates the 3D length of a geometry line object. If the geometry is not a 3D line object, it returns its 2D length. Calculations are always planimetric in the Spatial Reference System (SRS) of this geometry, and the units of the returned length will match the units for the SRS. This differs from the calculations performed by the $length function, which will perform ellipsoidal calculations based on the project's ellipsoid and distance unit settings.
+
+.. list-table::
+   :widths: 15 85
+
+   * - Syntax
+     - length3D(geometry)
+   * - Arguments
+     - * **geometry** - line geometry object
+   * - Examples
+     - * ``length3D(geom_from_wkt('LINESTRINGZ(0 0 0, 3 0 4)'))`` → 5.0
+
+
+.. end_length3D_section
 
 .. line_interpolate_angle_section
 
