@@ -9,14 +9,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Documentation 3.16\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-05 09:58+0000\n"
+"POT-Creation-Date: 2021-05-12 02:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../docs/documentation_guidelines/substitutions.rst:5
 msgid "Substitutions"
@@ -137,12 +137,20 @@ msgstr ""
 msgid "|logo|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:957
+msgid "logo"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:52
 msgid "``|logo|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:53
 msgid "|kde|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:911
+msgid "kde"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:53
@@ -153,6 +161,10 @@ msgstr ""
 msgid "|nix|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1037
+msgid "nix"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:53
 msgid "``|nix|``"
 msgstr ""
@@ -161,12 +173,20 @@ msgstr ""
 msgid "|osx|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1055
+msgid "osx"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:54
 msgid "``|osx|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:54
 msgid "|win|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1344
+msgid "win"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:54
@@ -181,12 +201,20 @@ msgstr ""
 msgid "|checkbox|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:634
+msgid "checkbox"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:65
 msgid "``|checkbox|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:65
 msgid "|unchecked|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1318
+msgid "unchecked"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:65
@@ -197,12 +225,20 @@ msgstr ""
 msgid "|radioButtonOn|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1111
+msgid "radioButtonOn"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:66
 msgid "``|radioButtonOn|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:66
 msgid "|radioButtonOff|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1109
+msgid "radioButtonOff"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:66
@@ -213,12 +249,20 @@ msgstr ""
 msgid "|selectNumber|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1193
+msgid "selectNumber"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:67
 msgid "``|selectNumber|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:67
 msgid "|selectString|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1201
+msgid "selectString"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:67
@@ -229,6 +273,10 @@ msgstr ""
 msgid "|selectColor|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1189
+msgid "selectColor"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:68
 msgid "``|selectColor|``"
 msgstr ""
@@ -237,12 +285,20 @@ msgstr ""
 msgid "|selectColorRamp|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1190
+msgid "selectColorRamp"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:68
 msgid "``|selectColorRamp|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:69
 msgid "|tab|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1286
+msgid "tab"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:69
@@ -261,12 +317,20 @@ msgstr ""
 msgid "|inputText|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:888
+msgid "inputText"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:70
 msgid "``|inputText|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:70
 msgid "|slider|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1247
+msgid "slider"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:70
@@ -283,6 +347,10 @@ msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:83
 msgid "|dataSourceManager|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:694
+msgid "dataSourceManager"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:83
@@ -302,12 +370,20 @@ msgstr ""
 msgid "|addOgrLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:540
+msgid "addOgrLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:84
 msgid "``|addOgrLayer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:84
 msgid "|addDb2Layer|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:516
+msgid "addDb2Layer"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:84
@@ -318,12 +394,20 @@ msgstr ""
 msgid "|addRasterLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:552
+msgid "addRasterLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:85
 msgid "``|addRasterLayer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:85
 msgid "|addMssqlLayer|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:536
+msgid "addMssqlLayer"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:85
@@ -334,12 +418,20 @@ msgstr ""
 msgid "|addDelimitedTextLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:518
+msgid "addDelimitedTextLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:86
 msgid "``|addDelimitedTextLayer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:86
 msgid "|addSpatiaLiteLayer|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:556
+msgid "addSpatiaLiteLayer"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:86
@@ -350,12 +442,20 @@ msgstr ""
 msgid "|addPostgisLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:550
+msgid "addPostgisLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:87
 msgid "``|addPostgisLayer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:87
 msgid "|addOracleLayer|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:542
+msgid "addOracleLayer"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:87
@@ -366,12 +466,20 @@ msgstr ""
 msgid "|addAfsLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:500
+msgid "addAfsLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:88
 msgid "``|addAfsLayer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:88
 msgid "|addAmsLayer|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:504
+msgid "addAmsLayer"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:88
@@ -382,12 +490,20 @@ msgstr ""
 msgid "|addMeshLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:534
+msgid "addMeshLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:89
 msgid "``|addMeshLayer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:90
 msgid "|addVectorTileLayer|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:562
+msgid "addVectorTileLayer"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:90
@@ -398,12 +514,20 @@ msgstr ""
 msgid "|addXyzLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:572
+msgid "addXyzLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:90
 msgid "``|addXyzLayer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:91
 msgid "|addVirtualLayer|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:564
+msgid "addVirtualLayer"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:91
@@ -414,12 +538,20 @@ msgstr ""
 msgid "|addWmsLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:570
+msgid "addWmsLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:91
 msgid "``|addWmsLayer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:92
 msgid "|addWcsLayer|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:566
+msgid "addWcsLayer"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:92
@@ -430,12 +562,20 @@ msgstr ""
 msgid "|addWfsLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:568
+msgid "addWfsLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:92
 msgid "``|addWfsLayer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:93
 msgid "|newVectorLayer|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1033
+msgid "newVectorLayer"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:93
@@ -446,12 +586,20 @@ msgstr ""
 msgid "|newSpatiaLiteLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1029
+msgid "newSpatiaLiteLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:93
 msgid "``|newSpatiaLiteLayer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:94
 msgid "|newGeoPackageLayer|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1019
+msgid "newGeoPackageLayer"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:94
@@ -462,12 +610,20 @@ msgstr ""
 msgid "|createMemory|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:678
+msgid "createMemory"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:94
 msgid "``|createMemory|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:95
 msgid "|newVirtualLayer|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1035
+msgid "newVirtualLayer"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:95
@@ -478,12 +634,20 @@ msgstr ""
 msgid "|dbManager|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:696
+msgid "dbManager"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:96
 msgid "``|dbManager|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:96
 msgid "|gdal|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:805
+msgid "gdal"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:96
@@ -494,12 +658,20 @@ msgstr ""
 msgid "|geoPackage|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:811
+msgid "geoPackage"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:97
 msgid "``|geoPackage|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:97
 msgid "|spatialite|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1254
+msgid "spatialite"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:97
@@ -510,12 +682,20 @@ msgstr ""
 msgid "|virtualLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1338
+msgid "virtualLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:98
 msgid "``|virtualLayer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:98
 msgid "|wms|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1346
+msgid "wms"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:98
@@ -526,12 +706,20 @@ msgstr ""
 msgid "|wcs|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1340
+msgid "wcs"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:99
 msgid "``|wcs|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:99
 msgid "|wfs|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1342
+msgid "wfs"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:99
@@ -542,12 +730,20 @@ msgstr ""
 msgid "|dbSchema|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:698
+msgid "dbSchema"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:100
 msgid "``|dbSchema|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:101
 msgid "|inOverview|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:872
+msgid "inOverview"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:101
@@ -558,12 +754,20 @@ msgstr ""
 msgid "|addAllToOverview|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:502
+msgid "addAllToOverview"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:101
 msgid "``|addAllToOverview|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:102
 msgid "|removeAllOVerview|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1137
+msgid "removeAllOVerview"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:102
@@ -574,12 +778,20 @@ msgstr ""
 msgid "|removeLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1139
+msgid "removeLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:102
 msgid "``|removeLayer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:103
 msgid "|showAllLayers|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1217
+msgid "showAllLayers"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:103
@@ -590,12 +802,20 @@ msgstr ""
 msgid "|hideAllLayers|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:846
+msgid "hideAllLayers"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:103
 msgid "``|hideAllLayers|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:104
 msgid "|showMapTheme|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1225
+msgid "showMapTheme"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:104
@@ -606,12 +826,20 @@ msgstr ""
 msgid "|showSelectedLayers|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1235
+msgid "showSelectedLayers"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:104
 msgid "``|showSelectedLayers|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:105
 msgid "|hideSelectedLayers|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:850
+msgid "hideSelectedLayers"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:105
@@ -622,12 +850,20 @@ msgstr ""
 msgid "|hideDeselectedLayers|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:848
+msgid "hideDeselectedLayers"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:105
 msgid "``|hideDeselectedLayers|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:106
 msgid "|toggleAllLayers|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1302
+msgid "toggleAllLayers"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:106
@@ -638,12 +874,20 @@ msgstr ""
 msgid "|toggleSelectedLayers|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1306
+msgid "toggleSelectedLayers"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:106
 msgid "``|toggleSelectedLayers|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:107
 msgid "|addLayer|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:528
+msgid "addLayer"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:107
@@ -654,12 +898,20 @@ msgstr ""
 msgid "|indicatorTemporal|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:886
+msgid "indicatorTemporal"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:108
 msgid "``|indicatorTemporal|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:108
 msgid "|indicatorNonRemovable|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:884
+msgid "indicatorNonRemovable"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:108
@@ -670,12 +922,20 @@ msgstr ""
 msgid "|indicatorEmbedded|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:876
+msgid "indicatorEmbedded"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:109
 msgid "``|indicatorEmbedded|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:109
 msgid "|indicatorFilter|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:878
+msgid "indicatorFilter"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:109
@@ -686,12 +946,20 @@ msgstr ""
 msgid "|indicatorMemory|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:880
+msgid "indicatorMemory"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:110
 msgid "``|indicatorMemory|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:110
 msgid "|indicatorNoCRS|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:882
+msgid "indicatorNoCRS"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:110
@@ -702,12 +970,20 @@ msgstr ""
 msgid "|indicatorBadLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:874
+msgid "indicatorBadLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:111
 msgid "``|indicatorBadLayer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:111
 msgid "|favourites|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:774
+msgid "favourites"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:111
@@ -722,12 +998,20 @@ msgstr ""
 msgid "|fileNew|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:777
+msgid "fileNew"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:120
 msgid "``|fileNew|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:120
 msgid "|fileOpen|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:779
+msgid "fileOpen"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:120
@@ -738,6 +1022,10 @@ msgstr ""
 msgid "|fileSave|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:783
+msgid "fileSave"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:121
 msgid "``|fileSave|``"
 msgstr ""
@@ -746,12 +1034,20 @@ msgstr ""
 msgid "|fileSaveAs|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:785
+msgid "fileSaveAs"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:121
 msgid "``|fileSaveAs|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:122
 msgid "|fileExit|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:776
+msgid "fileExit"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:122
@@ -766,12 +1062,20 @@ msgstr ""
 msgid "|undo|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1320
+msgid "undo"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:131
 msgid "``|undo|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:131
 msgid "|redo|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1127
+msgid "redo"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:131
@@ -781,6 +1085,10 @@ msgstr ""
 #: ../../docs/documentation_guidelines/substitutions.rst:132
 #: ../../docs/documentation_guidelines/substitutions.rst:153
 msgid "|editCopy|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:738
+msgid "editCopy"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:132
@@ -793,6 +1101,10 @@ msgstr ""
 msgid "|editPaste|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:746
+msgid "editPaste"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:132
 #: ../../docs/documentation_guidelines/substitutions.rst:319
 msgid "``|editPaste|``"
@@ -800,6 +1112,10 @@ msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:133
 msgid "|editCut|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:740
+msgid "editCut"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:133
@@ -810,12 +1126,20 @@ msgstr ""
 msgid "|saveEdits|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1175
+msgid "saveEdits"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:133
 msgid "``|saveEdits|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:134
 msgid "|editableEdits|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:748
+msgid "editableEdits"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:134
@@ -826,12 +1150,20 @@ msgstr ""
 msgid "|circle2Points|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:636
+msgid "circle2Points"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:135
 msgid "``|circle2Points|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:135
 msgid "|circle2TangentsPoint|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:638
+msgid "circle2TangentsPoint"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:135
@@ -842,12 +1174,20 @@ msgstr ""
 msgid "|circle3Points|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:640
+msgid "circle3Points"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:136
 msgid "``|circle3Points|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:136
 msgid "|circle3Tangents|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:642
+msgid "circle3Tangents"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:136
@@ -858,12 +1198,20 @@ msgstr ""
 msgid "|circleCenterPoint|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:644
+msgid "circleCenterPoint"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:137
 msgid "``|circleCenterPoint|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:137
 msgid "|ellipseCenter2Points|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:750
+msgid "ellipseCenter2Points"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:137
@@ -874,12 +1222,20 @@ msgstr ""
 msgid "|ellipseCenterPoint|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:752
+msgid "ellipseCenterPoint"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:138
 msgid "``|ellipseCenterPoint|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:138
 msgid "|ellipseExtent|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:754
+msgid "ellipseExtent"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:138
@@ -890,12 +1246,20 @@ msgstr ""
 msgid "|ellipseFoci|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:756
+msgid "ellipseFoci"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:139
 msgid "``|ellipseFoci|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:139
 msgid "|rectangle3PointsDistance|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1119
+msgid "rectangle3PointsDistance"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:139
@@ -906,12 +1270,20 @@ msgstr ""
 msgid "|rectangle3PointsProjected|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1121
+msgid "rectangle3PointsProjected"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:140
 msgid "``|rectangle3PointsProjected|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:140
 msgid "|rectangleCenter|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1123
+msgid "rectangleCenter"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:140
@@ -922,12 +1294,20 @@ msgstr ""
 msgid "|rectangleExtent|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1125
+msgid "rectangleExtent"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:141
 msgid "``|rectangleExtent|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:141
 msgid "|regularPolygon2Points|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1131
+msgid "regularPolygon2Points"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:141
@@ -938,12 +1318,20 @@ msgstr ""
 msgid "|regularPolygonCenterCorner|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1133
+msgid "regularPolygonCenterCorner"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:142
 msgid "``|regularPolygonCenterCorner|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:142
 msgid "|regularPolygonCenterPoint|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1135
+msgid "regularPolygonCenterPoint"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:142
@@ -958,12 +1346,20 @@ msgstr ""
 msgid "|expandTree|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:760
+msgid "expandTree"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:151
 msgid "``|expandTree|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:151
 msgid "|collapseTree|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:656
+msgid "collapseTree"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:151
@@ -974,6 +1370,10 @@ msgstr ""
 msgid "|expandNewTree|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:758
+msgid "expandNewTree"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:152
 msgid "``|expandNewTree|``"
 msgstr ""
@@ -981,6 +1381,10 @@ msgstr ""
 #: ../../docs/documentation_guidelines/substitutions.rst:152
 #: ../../docs/documentation_guidelines/substitutions.rst:323
 msgid "|formView|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:799
+msgid "formView"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:152
@@ -993,6 +1397,10 @@ msgstr ""
 msgid "|deselectAll|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:718
+msgid "deselectAll"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:153
 #: ../../docs/documentation_guidelines/substitutions.rst:218
 msgid "``|deselectAll|``"
@@ -1001,6 +1409,10 @@ msgstr ""
 #: ../../docs/documentation_guidelines/substitutions.rst:154
 #: ../../docs/documentation_guidelines/substitutions.rst:357
 msgid "|filePrint|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:781
+msgid "filePrint"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:154
@@ -1012,12 +1424,20 @@ msgstr ""
 msgid "|identifyByRectangle|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:870
+msgid "identifyByRectangle"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:155
 msgid "``|identifyByRectangle|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:155
 msgid "|identifyByPolygon|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:866
+msgid "identifyByPolygon"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:155
@@ -1028,12 +1448,20 @@ msgstr ""
 msgid "|identifyByFreehand|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:864
+msgid "identifyByFreehand"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:156
 msgid "``|identifyByFreehand|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:156
 msgid "|identifyByRadius|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:868
+msgid "identifyByRadius"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:156
@@ -1048,12 +1476,20 @@ msgstr ""
 msgid "|cad|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:610
+msgid "cad"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:166
 msgid "``|cad|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:166
 msgid "|cadConstruction|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:612
+msgid "cadConstruction"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:166
@@ -1064,12 +1500,20 @@ msgstr ""
 msgid "|cadParallel|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:614
+msgid "cadParallel"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:167
 msgid "``|cadParallel|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:167
 msgid "|cadPerpendicular|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:616
+msgid "cadPerpendicular"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:167
@@ -1080,12 +1524,20 @@ msgstr ""
 msgid "|toggleEditing|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1304
+msgid "toggleEditing"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:168
 msgid "``|toggleEditing|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:168
 msgid "|allEdits|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:588
+msgid "allEdits"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:168
@@ -1096,12 +1548,20 @@ msgstr ""
 msgid "|tracing|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1310
+msgid "tracing"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:169
 msgid "``|tracing|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:169
 msgid "|snapping|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1248
+msgid "snapping"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:169
@@ -1112,6 +1572,10 @@ msgstr ""
 msgid "|capturePoint|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:622
+msgid "capturePoint"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:170
 msgid "``|capturePoint|``"
 msgstr ""
@@ -1120,12 +1584,20 @@ msgstr ""
 msgid "|capturePolygon|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:624
+msgid "capturePolygon"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:170
 msgid "``|capturePolygon|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:171
 msgid "|captureLine|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:620
+msgid "captureLine"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:171
@@ -1137,6 +1609,10 @@ msgstr ""
 msgid "|deleteSelectedFeatures|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:712
+msgid "deleteSelectedFeatures"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:171
 #: ../../docs/documentation_guidelines/substitutions.rst:320
 msgid "``|deleteSelectedFeatures|``"
@@ -1144,6 +1620,10 @@ msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:172
 msgid "|circularStringCurvePoint|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:646
+msgid "circularStringCurvePoint"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:172
@@ -1154,12 +1634,20 @@ msgstr ""
 msgid "|circularStringRadius|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:648
+msgid "circularStringRadius"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:172
 msgid "``|circularStringRadius|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:173
 msgid "|vertexTool|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1330
+msgid "vertexTool"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:173
@@ -1170,12 +1658,20 @@ msgstr ""
 msgid "|vertexToolActiveLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1332
+msgid "vertexToolActiveLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:173
 msgid "``|vertexToolActiveLayer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:174
 msgid "|moveFeature|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:991
+msgid "moveFeature"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:174
@@ -1186,12 +1682,20 @@ msgstr ""
 msgid "|moveFeatureCopy|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:993
+msgid "moveFeatureCopy"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:174
 msgid "``|moveFeatureCopy|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:175
 msgid "|moveFeatureLine|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:999
+msgid "moveFeatureLine"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:175
@@ -1202,12 +1706,20 @@ msgstr ""
 msgid "|moveFeatureCopyLine|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:995
+msgid "moveFeatureCopyLine"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:175
 msgid "``|moveFeatureCopyLine|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:176
 msgid "|moveFeaturePoint|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1001
+msgid "moveFeaturePoint"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:176
@@ -1218,12 +1730,20 @@ msgstr ""
 msgid "|moveFeatureCopyPoint|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:997
+msgid "moveFeatureCopyPoint"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:176
 msgid "``|moveFeatureCopyPoint|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:177
 msgid "|rotateFeature|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1159
+msgid "rotateFeature"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:177
@@ -1234,12 +1754,20 @@ msgstr ""
 msgid "|rotatePointSymbols|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1163
+msgid "rotatePointSymbols"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:177
 msgid "``|rotatePointSymbols|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:178
 msgid "|offsetCurve|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1047
+msgid "offsetCurve"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:178
@@ -1250,12 +1778,20 @@ msgstr ""
 msgid "|offsetPointSymbols|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1049
+msgid "offsetPointSymbols"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:178
 msgid "``|offsetPointSymbols|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:179
 msgid "|simplifyFeatures|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1243
+msgid "simplifyFeatures"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:179
@@ -1266,12 +1802,20 @@ msgstr ""
 msgid "|reshape|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1145
+msgid "reshape"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:179
 msgid "``|reshape|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:180
 msgid "|addRing|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:554
+msgid "addRing"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:180
@@ -1282,12 +1826,20 @@ msgstr ""
 msgid "|addPart|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:544
+msgid "addPart"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:180
 msgid "``|addPart|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:181
 msgid "|fillRing|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:787
+msgid "fillRing"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:181
@@ -1298,12 +1850,20 @@ msgstr ""
 msgid "|deleteRing|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:708
+msgid "deleteRing"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:182
 msgid "``|deleteRing|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:182
 msgid "|deletePart|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:706
+msgid "deletePart"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:182
@@ -1314,12 +1874,20 @@ msgstr ""
 msgid "|mergeFeatures|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:975
+msgid "mergeFeatures"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:183
 msgid "``|mergeFeatures|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:183
 msgid "|mergeFeatAttributes|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:973
+msgid "mergeFeatAttributes"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:183
@@ -1330,6 +1898,10 @@ msgstr ""
 msgid "|splitFeatures|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1256
+msgid "splitFeatures"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:184
 msgid "``|splitFeatures|``"
 msgstr ""
@@ -1338,12 +1910,20 @@ msgstr ""
 msgid "|splitParts|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1260
+msgid "splitParts"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:184
 msgid "``|splitParts|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:185
 msgid "|reverseLine|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1157
+msgid "reverseLine"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:185
@@ -1358,6 +1938,10 @@ msgstr ""
 msgid "|pan|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1061
+msgid "pan"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:195
 msgid "``|pan|``"
 msgstr ""
@@ -1365,6 +1949,10 @@ msgstr ""
 #: ../../docs/documentation_guidelines/substitutions.rst:195
 #: ../../docs/documentation_guidelines/substitutions.rst:318
 msgid "|panToSelected|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1065
+msgid "panToSelected"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:195
@@ -1376,12 +1964,20 @@ msgstr ""
 msgid "|zoomIn|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1352
+msgid "zoomIn"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:196
 msgid "``|zoomIn|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:196
 msgid "|zoomOut|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1358
+msgid "zoomOut"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:196
@@ -1392,6 +1988,10 @@ msgstr ""
 msgid "|zoomActual|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1348
+msgid "zoomActual"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:197
 msgid "``|zoomActual|``"
 msgstr ""
@@ -1400,12 +2000,20 @@ msgstr ""
 msgid "|zoomFullExtent|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1350
+msgid "zoomFullExtent"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:197
 msgid "``|zoomFullExtent|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:198
 msgid "|zoomToLayer|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1360
+msgid "zoomToLayer"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:198
@@ -1417,6 +2025,10 @@ msgstr ""
 msgid "|zoomToSelected|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1362
+msgid "zoomToSelected"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:198
 #: ../../docs/documentation_guidelines/substitutions.rst:318
 msgid "``|zoomToSelected|``"
@@ -1426,12 +2038,20 @@ msgstr ""
 msgid "|zoomLast|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1354
+msgid "zoomLast"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:199
 msgid "``|zoomLast|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:199
 msgid "|zoomNext|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1356
+msgid "zoomNext"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:199
@@ -1443,6 +2063,10 @@ msgstr ""
 msgid "|refresh|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1129
+msgid "refresh"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:200
 #: ../../docs/documentation_guidelines/substitutions.rst:323
 msgid "``|refresh|``"
@@ -1450,6 +2074,10 @@ msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:201
 msgid "|identify|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:862
+msgid "identify"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:201
@@ -1460,12 +2088,20 @@ msgstr ""
 msgid "|mapTips|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:963
+msgid "mapTips"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:201
 msgid "``|mapTips|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:202
 msgid "|showBookmarks|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1219
+msgid "showBookmarks"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:202
@@ -1476,12 +2112,20 @@ msgstr ""
 msgid "|newBookmark|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1017
+msgid "newBookmark"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:202
 msgid "``|newBookmark|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:203
 msgid "|measure|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:967
+msgid "measure"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:203
@@ -1492,12 +2136,20 @@ msgstr ""
 msgid "|measureArea|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:971
+msgid "measureArea"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:203
 msgid "``|measureArea|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:204
 msgid "|measureAngle|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:969
+msgid "measureAngle"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:204
@@ -1508,12 +2160,20 @@ msgstr ""
 msgid "|newMap|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1023
+msgid "newMap"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:205
 msgid "``|newMap|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:205
 msgid "|new3DMap|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1013
+msgid "new3DMap"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:205
@@ -1524,12 +2184,20 @@ msgstr ""
 msgid "|tiltUp|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1296
+msgid "tiltUp"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:206
 msgid "``|tiltUp|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:206
 msgid "|tiltDown|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1294
+msgid "tiltDown"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:206
@@ -1540,12 +2208,20 @@ msgstr ""
 msgid "|3dNavigation|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:490
+msgid "3dNavigation"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:207
 msgid "``|3dNavigation|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:207
 msgid "|play|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1073
+msgid "play"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:207
@@ -1560,12 +2236,20 @@ msgstr ""
 msgid "|selectRectangle|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1199
+msgid "selectRectangle"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:216
 msgid "``|selectRectangle|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:216
 msgid "|selectPolygon|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1195
+msgid "selectPolygon"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:216
@@ -1576,12 +2260,20 @@ msgstr ""
 msgid "|selectFreehand|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1191
+msgid "selectFreehand"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:217
 msgid "``|selectFreehand|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:217
 msgid "|selectRadius|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1197
+msgid "selectRadius"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:217
@@ -1591,6 +2283,10 @@ msgstr ""
 #: ../../docs/documentation_guidelines/substitutions.rst:218
 #: ../../docs/documentation_guidelines/substitutions.rst:317
 msgid "|selectAll|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1185
+msgid "selectAll"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:218
@@ -1603,6 +2299,10 @@ msgstr ""
 msgid "|invertSelection|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:899
+msgid "invertSelection"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:219
 #: ../../docs/documentation_guidelines/substitutions.rst:317
 msgid "``|invertSelection|``"
@@ -1611,6 +2311,10 @@ msgstr ""
 #: ../../docs/documentation_guidelines/substitutions.rst:219
 #: ../../docs/documentation_guidelines/substitutions.rst:320
 msgid "|expressionSelect|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:768
+msgid "expressionSelect"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:219
@@ -1622,6 +2326,10 @@ msgstr ""
 msgid "|deselectActiveLayer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:716
+msgid "deselectActiveLayer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:220
 msgid "``|deselectActiveLayer|``"
 msgstr ""
@@ -1630,12 +2338,20 @@ msgstr ""
 msgid "|algorithmSelectLocation|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:574
+msgid "algorithmSelectLocation"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:220
 msgid "``|algorithmSelectLocation|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:221
 msgid "|selectAllTree|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1187
+msgid "selectAllTree"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:221
@@ -1647,6 +2363,10 @@ msgstr ""
 msgid "|select|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1183
+msgid "select"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:221
 #: ../../docs/documentation_guidelines/substitutions.rst:368
 msgid "``|select|``"
@@ -1654,6 +2374,10 @@ msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:222
 msgid "|formSelect|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:797
+msgid "formSelect"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:222
@@ -1664,12 +2388,20 @@ msgstr ""
 msgid "|dataDefined|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:692
+msgid "dataDefined"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:222
 msgid "``|dataDefined|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:223
 msgid "|expression|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:764
+msgid "expression"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:223
@@ -1680,12 +2412,20 @@ msgstr ""
 msgid "|dataDefineOn|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:690
+msgid "dataDefineOn"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:223
 msgid "``|dataDefineOn|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:224
 msgid "|dataDefineExpressionOn|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:688
+msgid "dataDefineExpressionOn"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:224
@@ -1696,12 +2436,20 @@ msgstr ""
 msgid "|dataDefineError|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:684
+msgid "dataDefineError"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:224
 msgid "``|dataDefineError|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:225
 msgid "|dataDefineExpressionError|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:686
+msgid "dataDefineExpressionError"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:225
@@ -1712,6 +2460,10 @@ msgstr ""
 msgid "|addExpression|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:520
+msgid "addExpression"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:226
 msgid "``|addExpression|``"
 msgstr ""
@@ -1720,12 +2472,20 @@ msgstr ""
 msgid "|expressionFilter|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:766
+msgid "expressionFilter"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:227
 msgid "``|expressionFilter|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:227
 msgid "|filterMap|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:789
+msgid "filterMap"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:227
@@ -1741,6 +2501,10 @@ msgstr ""
 msgid "|labeling|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:925
+msgid "labeling"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:237
 #: ../../docs/documentation_guidelines/substitutions.rst:391
 msgid "``|labeling|``"
@@ -1748,6 +2512,10 @@ msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:237
 msgid "|labelingNone|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:927
+msgid "labelingNone"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:237
@@ -1758,12 +2526,20 @@ msgstr ""
 msgid "|labelingRuleBased|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:931
+msgid "labelingRuleBased"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:238
 msgid "``|labelingRuleBased|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:238
 msgid "|labelingObstacle|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:929
+msgid "labelingObstacle"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:238
@@ -1774,12 +2550,20 @@ msgstr ""
 msgid "|piechart|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1069
+msgid "piechart"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:239
 msgid "``|piechart|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:239
 msgid "|diagramNone|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:722
+msgid "diagramNone"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:239
@@ -1790,12 +2574,20 @@ msgstr ""
 msgid "|text|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1290
+msgid "text"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:240
 msgid "``|text|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:240
 msgid "|histogram|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:854
+msgid "histogram"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:240
@@ -1806,12 +2598,20 @@ msgstr ""
 msgid "|stackedBar|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1264
+msgid "stackedBar"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:241
 msgid "``|stackedBar|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:242
 msgid "|annotation|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:590
+msgid "annotation"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:242
@@ -1822,12 +2622,20 @@ msgstr ""
 msgid "|textAnnotation|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1292
+msgid "textAnnotation"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:242
 msgid "``|textAnnotation|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:243
 msgid "|formAnnotation|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:795
+msgid "formAnnotation"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:243
@@ -1838,12 +2646,20 @@ msgstr ""
 msgid "|htmlAnnotation|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:858
+msgid "htmlAnnotation"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:243
 msgid "``|htmlAnnotation|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:244
 msgid "|svgAnnotation|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1276
+msgid "svgAnnotation"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:244
@@ -1854,12 +2670,20 @@ msgstr ""
 msgid "|autoPlacement|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:600
+msgid "autoPlacement"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:244
 msgid "``|autoPlacement|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:245
 msgid "|labelbackground|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:917
+msgid "labelbackground"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:245
@@ -1870,12 +2694,20 @@ msgstr ""
 msgid "|labelbuffer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:919
+msgid "labelbuffer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:245
 msgid "``|labelbuffer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:246
 msgid "|labelformatting|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:923
+msgid "labelformatting"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:246
@@ -1886,12 +2718,20 @@ msgstr ""
 msgid "|labelplacement|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:935
+msgid "labelplacement"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:246
 msgid "``|labelplacement|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:247
 msgid "|labelshadow|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:937
+msgid "labelshadow"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:247
@@ -1902,12 +2742,20 @@ msgstr ""
 msgid "|render|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1141
+msgid "render"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:247
 msgid "``|render|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:248
 msgid "|labelcallout|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:921
+msgid "labelcallout"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:248
@@ -1918,12 +2766,20 @@ msgstr ""
 msgid "|pinLabels|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1071
+msgid "pinLabels"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:249
 msgid "``|pinLabels|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:249
 msgid "|showHideLabels|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1223
+msgid "showHideLabels"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:249
@@ -1934,12 +2790,20 @@ msgstr ""
 msgid "|moveLabel|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1009
+msgid "moveLabel"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:250
 msgid "``|moveLabel|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:250
 msgid "|rotateLabel|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1161
+msgid "rotateLabel"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:250
@@ -1950,6 +2814,10 @@ msgstr ""
 msgid "|showPinnedLabels|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1229
+msgid "showPinnedLabels"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:251
 msgid "``|showPinnedLabels|``"
 msgstr ""
@@ -1958,12 +2826,20 @@ msgstr ""
 msgid "|showUnplacedLabel|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1237
+msgid "showUnplacedLabel"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:251
 msgid "``|showUnplacedLabel|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:252
 msgid "|changeLabelProperties|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:630
+msgid "changeLabelProperties"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:252
@@ -1979,6 +2855,10 @@ msgstr ""
 msgid "|copyrightLabel|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:676
+msgid "copyrightLabel"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:261
 #: ../../docs/documentation_guidelines/substitutions.rst:299
 msgid "``|copyrightLabel|``"
@@ -1986,6 +2866,10 @@ msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:261
 msgid "|addGrid|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:522
+msgid "addGrid"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:261
@@ -1996,6 +2880,10 @@ msgstr ""
 msgid "|titleLabel|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1298
+msgid "titleLabel"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:262
 msgid "``|titleLabel|``"
 msgstr ""
@@ -2004,6 +2892,10 @@ msgstr ""
 #: ../../docs/documentation_guidelines/substitutions.rst:299
 #: ../../docs/documentation_guidelines/substitutions.rst:363
 msgid "|northArrow|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1039
+msgid "northArrow"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:262
@@ -2018,6 +2910,10 @@ msgstr ""
 msgid "|scaleBar|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1179
+msgid "scaleBar"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:263
 #: ../../docs/documentation_guidelines/substitutions.rst:300
 #: ../../docs/documentation_guidelines/substitutions.rst:367
@@ -2029,6 +2925,10 @@ msgstr ""
 msgid "|addMap|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:532
+msgid "addMap"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:263
 #: ../../docs/documentation_guidelines/substitutions.rst:364
 msgid "``|addMap|``"
@@ -2037,6 +2937,10 @@ msgstr ""
 #: ../../docs/documentation_guidelines/substitutions.rst:264
 #: ../../docs/documentation_guidelines/substitutions.rst:366
 msgid "|addImage|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:526
+msgid "addImage"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:264
@@ -2052,12 +2956,20 @@ msgstr ""
 msgid "|helpContents|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:842
+msgid "helpContents"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:273
 msgid "``|helpContents|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:273
 msgid "|qgisHomePage|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1105
+msgid "qgisHomePage"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:273
@@ -2068,6 +2980,10 @@ msgstr ""
 msgid "|success|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1272
+msgid "success"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:274
 msgid "``|success|``"
 msgstr ""
@@ -2076,12 +2992,20 @@ msgstr ""
 msgid "|helpSponsors|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:844
+msgid "helpSponsors"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:275
 msgid "``|helpSponsors|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:275
 msgid "|contextHelp|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:668
+msgid "contextHelp"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:275
@@ -2096,12 +3020,20 @@ msgstr ""
 msgid "|colorBox|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:658
+msgid "colorBox"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:284
 msgid "``|colorBox|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:284
 msgid "|colorPicker|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:660
+msgid "colorPicker"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:284
@@ -2112,12 +3044,20 @@ msgstr ""
 msgid "|colorSwatches|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:662
+msgid "colorSwatches"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:285
 msgid "``|colorSwatches|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:285
 msgid "|colorWheel|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:664
+msgid "colorWheel"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:285
@@ -2132,12 +3072,20 @@ msgstr ""
 msgid "|arrowDown|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:592
+msgid "arrowDown"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:295
 msgid "``|arrowDown|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:295
 msgid "|arrowUp|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:594
+msgid "arrowUp"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:295
@@ -2148,12 +3096,20 @@ msgstr ""
 msgid "|signPlus|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1241
+msgid "signPlus"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:296
 msgid "``|signPlus|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:296
 msgid "|signMinus|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1239
+msgid "signMinus"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:296
@@ -2164,12 +3120,20 @@ msgstr ""
 msgid "|projectProperties|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1095
+msgid "projectProperties"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:297
 msgid "``|projectProperties|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:297
 msgid "|options|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1053
+msgid "options"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:297
@@ -2180,12 +3144,20 @@ msgstr ""
 msgid "|interfaceCustomization|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:893
+msgid "interfaceCustomization"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:298
 msgid "``|interfaceCustomization|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:298
 msgid "|keyboardShortcuts|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:913
+msgid "keyboardShortcuts"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:298
@@ -2196,12 +3168,20 @@ msgstr ""
 msgid "|tracking|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1312
+msgid "tracking"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:300
 msgid "``|tracking|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:301
 msgid "|gpsImporter|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:818
+msgid "gpsImporter"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:301
@@ -2212,12 +3192,20 @@ msgstr ""
 msgid "|gpsTrackBarChart|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:820
+msgid "gpsTrackBarChart"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:301
 msgid "``|gpsTrackBarChart|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:302
 msgid "|folder|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:793
+msgid "folder"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:302
@@ -2228,12 +3216,20 @@ msgstr ""
 msgid "|extents|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:770
+msgid "extents"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:302
 msgid "``|extents|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:303
 msgid "|settings|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1211
+msgid "settings"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:303
@@ -2244,12 +3240,20 @@ msgstr ""
 msgid "|start|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1266
+msgid "start"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:303
 msgid "``|start|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:304
 msgid "|3dconfigure|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:492
+msgid "3dconfigure"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:304
@@ -2260,12 +3264,20 @@ msgstr ""
 msgid "|deleteSelected|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:710
+msgid "deleteSelected"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:304
 msgid "``|deleteSelected|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:305
 msgid "|browserExpand|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:606
+msgid "browserExpand"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:305
@@ -2276,12 +3288,20 @@ msgstr ""
 msgid "|browserCollapse|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:604
+msgid "browserCollapse"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:305
 msgid "``|browserCollapse|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:306
 msgid "|codeEditor|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:654
+msgid "codeEditor"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:306
@@ -2296,12 +3316,20 @@ msgstr ""
 msgid "|openTable|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1051
+msgid "openTable"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:316
 msgid "``|openTable|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:316
 msgid "|selectedToTop|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1203
+msgid "selectedToTop"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:316
@@ -2312,12 +3340,20 @@ msgstr ""
 msgid "|copySelected|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:674
+msgid "copySelected"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:319
 msgid "``|copySelected|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:321
 msgid "|newAttribute|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1015
+msgid "newAttribute"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:321
@@ -2328,12 +3364,20 @@ msgstr ""
 msgid "|deleteAttribute|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:704
+msgid "deleteAttribute"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:321
 msgid "``|deleteAttribute|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:322
 msgid "|newTableRow|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1031
+msgid "newTableRow"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:322
@@ -2344,12 +3388,20 @@ msgstr ""
 msgid "|calculateField|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:618
+msgid "calculateField"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:322
 msgid "``|calculateField|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:324
 msgid "|conditionalFormatting|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:666
+msgid "conditionalFormatting"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:324
@@ -2360,12 +3412,20 @@ msgstr ""
 msgid "|multiEdit|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1011
+msgid "multiEdit"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:324
 msgid "``|multiEdit|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:325
 msgid "|dock|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:732
+msgid "dock"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:325
@@ -2376,12 +3436,20 @@ msgstr ""
 msgid "|actionRun|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:496
+msgid "actionRun"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:325
 msgid "``|actionRun|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:326
 msgid "|duplicateFeature|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:734
+msgid "duplicateFeature"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:326
@@ -2392,12 +3460,20 @@ msgstr ""
 msgid "|panTo|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1063
+msgid "panTo"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:327
 msgid "``|panTo|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:327
 msgid "|highlightFeature|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:852
+msgid "highlightFeature"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:327
@@ -2412,12 +3488,20 @@ msgstr ""
 msgid "|geographic|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:813
+msgid "geographic"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:337
 msgid "``|geographic|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:337
 msgid "|crs|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:680
+msgid "crs"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:337
@@ -2428,12 +3512,20 @@ msgstr ""
 msgid "|customProjection|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:682
+msgid "customProjection"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:338
 msgid "``|customProjection|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:338
 msgid "|setProjection|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1205
+msgid "setProjection"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:338
@@ -2444,12 +3536,20 @@ msgstr ""
 msgid "|projectionDisabled|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1097
+msgid "projectionDisabled"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:339
 msgid "``|projectionDisabled|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:339
 msgid "|projectionEnabled|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1099
+msgid "projectionEnabled"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:339
@@ -2460,12 +3560,20 @@ msgstr ""
 msgid "|transformation|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1314
+msgid "transformation"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:340
 msgid "``|transformation|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:341
 msgid "|georefRun|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:816
+msgid "georefRun"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:341
@@ -2476,12 +3584,20 @@ msgstr ""
 msgid "|pencil|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1067
+msgid "pencil"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:341
 msgid "``|pencil|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:342
 msgid "|linkQGisToGeoref|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:947
+msgid "linkQGisToGeoref"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:342
@@ -2492,6 +3608,10 @@ msgstr ""
 msgid "|linkGeorefToQGis|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:945
+msgid "linkGeorefToQGis"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:342
 msgid "``|linkGeorefToQGis|``"
 msgstr ""
@@ -2500,12 +3620,20 @@ msgstr ""
 msgid "|coordinateCapture|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:672
+msgid "coordinateCapture"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:343
 msgid "``|coordinateCapture|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:343
 msgid "|fullHistogramStretch|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:803
+msgid "fullHistogramStretch"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:343
@@ -2520,12 +3648,20 @@ msgstr ""
 msgid "|newLayout|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1021
+msgid "newLayout"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:353
 msgid "``|newLayout|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:353
 msgid "|layoutManager|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:941
+msgid "layoutManager"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:353
@@ -2536,12 +3672,20 @@ msgstr ""
 msgid "|duplicateLayout|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:736
+msgid "duplicateLayout"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:354
 msgid "``|duplicateLayout|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:355
 msgid "|newReport|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1027
+msgid "newReport"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:355
@@ -2552,12 +3696,20 @@ msgstr ""
 msgid "|newPage|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1025
+msgid "newPage"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:355
 msgid "``|newPage|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:356
 msgid "|atlasSettings|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:598
+msgid "atlasSettings"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:356
@@ -2568,12 +3720,20 @@ msgstr ""
 msgid "|atlas|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:596
+msgid "atlas"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:356
 msgid "``|atlas|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:357
 msgid "|saveMapAsImage|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1177
+msgid "saveMapAsImage"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:357
@@ -2584,12 +3744,20 @@ msgstr ""
 msgid "|saveAsSVG|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1173
+msgid "saveAsSVG"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:358
 msgid "``|saveAsSVG|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:358
 msgid "|saveAsPDF|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1169
+msgid "saveAsPDF"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:358
@@ -2600,12 +3768,20 @@ msgstr ""
 msgid "|addBasicShape|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:512
+msgid "addBasicShape"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:359
 msgid "``|addBasicShape|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:359
 msgid "|addBasicCircle|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:508
+msgid "addBasicCircle"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:359
@@ -2616,12 +3792,20 @@ msgstr ""
 msgid "|addBasicTriangle|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:514
+msgid "addBasicTriangle"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:360
 msgid "``|addBasicTriangle|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:360
 msgid "|addBasicRectangle|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:510
+msgid "addBasicRectangle"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:360
@@ -2632,12 +3816,20 @@ msgstr ""
 msgid "|addNodesShape|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:538
+msgid "addNodesShape"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:361
 msgid "``|addNodesShape|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:361
 msgid "|editNodesShape|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:744
+msgid "editNodesShape"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:361
@@ -2648,12 +3840,20 @@ msgstr ""
 msgid "|addPolygon|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:546
+msgid "addPolygon"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:362
 msgid "``|addPolygon|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:362
 msgid "|addPolyline|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:548
+msgid "addPolyline"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:362
@@ -2664,12 +3864,20 @@ msgstr ""
 msgid "|addArrow|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:506
+msgid "addArrow"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:363
 msgid "``|addArrow|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:364
 msgid "|add3DMap|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:498
+msgid "add3DMap"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:364
@@ -2680,12 +3888,20 @@ msgstr ""
 msgid "|addLegend|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:530
+msgid "addLegend"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:365
 msgid "``|addLegend|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:365
 msgid "|addHtml|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:524
+msgid "addHtml"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:365
@@ -2696,12 +3912,20 @@ msgstr ""
 msgid "|addTable|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:558
+msgid "addTable"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:366
 msgid "``|addTable|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:367
 msgid "|label|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:915
+msgid "label"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:367
@@ -2712,12 +3936,20 @@ msgstr ""
 msgid "|moveItemContent|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1003
+msgid "moveItemContent"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:368
 msgid "``|moveItemContent|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:369
 msgid "|setToCanvasScale|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1209
+msgid "setToCanvasScale"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:369
@@ -2728,12 +3960,20 @@ msgstr ""
 msgid "|setToCanvasExtent|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1207
+msgid "setToCanvasExtent"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:369
 msgid "``|setToCanvasExtent|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:370
 msgid "|viewScaleInCanvas|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1336
+msgid "viewScaleInCanvas"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:370
@@ -2744,12 +3984,20 @@ msgstr ""
 msgid "|viewExtentInCanvas|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1334
+msgid "viewExtentInCanvas"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:370
 msgid "``|viewExtentInCanvas|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:371
 msgid "|raiseItems|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1113
+msgid "raiseItems"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:371
@@ -2760,12 +4008,20 @@ msgstr ""
 msgid "|lowerItems|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:959
+msgid "lowerItems"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:371
 msgid "``|lowerItems|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:372
 msgid "|moveItemsToTop|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1007
+msgid "moveItemsToTop"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:372
@@ -2776,12 +4032,20 @@ msgstr ""
 msgid "|moveItemsToBottom|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1005
+msgid "moveItemsToBottom"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:372
 msgid "``|moveItemsToBottom|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:373
 msgid "|alignLeft|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:580
+msgid "alignLeft"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:373
@@ -2792,12 +4056,20 @@ msgstr ""
 msgid "|alignRight|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:582
+msgid "alignRight"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:373
 msgid "``|alignRight|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:374
 msgid "|alignHCenter|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:578
+msgid "alignHCenter"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:374
@@ -2808,12 +4080,20 @@ msgstr ""
 msgid "|alignVCenter|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:586
+msgid "alignVCenter"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:374
 msgid "``|alignVCenter|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:375
 msgid "|alignTop|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:584
+msgid "alignTop"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:375
@@ -2824,12 +4104,20 @@ msgstr ""
 msgid "|alignBottom|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:576
+msgid "alignBottom"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:375
 msgid "``|alignBottom|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:376
 msgid "|resizeShortest|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1149
+msgid "resizeShortest"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:376
@@ -2840,12 +4128,20 @@ msgstr ""
 msgid "|resizeTallest|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1153
+msgid "resizeTallest"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:376
 msgid "``|resizeTallest|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:377
 msgid "|resizeNarrowest|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1147
+msgid "resizeNarrowest"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:377
@@ -2856,12 +4152,20 @@ msgstr ""
 msgid "|resizeWidest|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1155
+msgid "resizeWidest"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:377
 msgid "``|resizeWidest|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:378
 msgid "|resizeSquare|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1151
+msgid "resizeSquare"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:378
@@ -2872,12 +4176,20 @@ msgstr ""
 msgid "|lockItems|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:949
+msgid "lockItems"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:379
 msgid "``|lockItems|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:379
 msgid "|unlockAll|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1324
+msgid "unlockAll"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:379
@@ -2888,12 +4200,20 @@ msgstr ""
 msgid "|locked|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:951
+msgid "locked"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:380
 msgid "``|locked|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:380
 msgid "|unlocked|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1326
+msgid "unlocked"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:380
@@ -2904,6 +4224,10 @@ msgstr ""
 msgid "|lockedRepeat|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:955
+msgid "lockedRepeat"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:381
 msgid "``|lockedRepeat|``"
 msgstr ""
@@ -2912,12 +4236,20 @@ msgstr ""
 msgid "|lockedGray|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:953
+msgid "lockedGray"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:381
 msgid "``|lockedGray|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:382
 msgid "|groupItems|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:836
+msgid "groupItems"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:382
@@ -2932,12 +4264,20 @@ msgstr ""
 msgid "|symbology|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1280
+msgid "symbology"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:391
 msgid "``|symbology|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:392
 msgid "|sourceFields|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1252
+msgid "sourceFields"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:392
@@ -2948,12 +4288,20 @@ msgstr ""
 msgid "|general|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:809
+msgid "general"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:392
 msgid "``|general|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:393
 msgid "|metadata|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:987
+msgid "metadata"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:393
@@ -2964,12 +4312,20 @@ msgstr ""
 msgid "|action|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:494
+msgid "action"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:393
 msgid "``|action|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:394
 msgid "|display|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:728
+msgid "display"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:394
@@ -2980,12 +4336,20 @@ msgstr ""
 msgid "|rendering|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1143
+msgid "rendering"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:394
 msgid "``|rendering|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:395
 msgid "|join|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:903
+msgid "join"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:395
@@ -2996,12 +4360,20 @@ msgstr ""
 msgid "|diagram|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:720
+msgid "diagram"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:395
 msgid "``|diagram|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:396
 msgid "|labelmask|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:933
+msgid "labelmask"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:396
@@ -3012,12 +4384,20 @@ msgstr ""
 msgid "|temporal|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1288
+msgid "temporal"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:396
 msgid "``|temporal|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:397
 msgid "|legend|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:943
+msgid "legend"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:397
@@ -3028,12 +4408,20 @@ msgstr ""
 msgid "|dependencies|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:714
+msgid "dependencies"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:397
 msgid "``|dependencies|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:398
 msgid "|3d|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:488
+msgid "3d"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:398
@@ -3044,12 +4432,20 @@ msgstr ""
 msgid "|system|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1284
+msgid "system"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:398
 msgid "``|system|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:399
 msgid "|editMetadata|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:742
+msgid "editMetadata"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:399
@@ -3060,12 +4456,20 @@ msgstr ""
 msgid "|overlay|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1057
+msgid "overlay"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:399
 msgid "``|overlay|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:400
 msgid "|digitizing|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:726
+msgid "digitizing"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:400
@@ -3076,12 +4480,20 @@ msgstr ""
 msgid "|auxiliaryStorage|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:602
+msgid "auxiliaryStorage"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:400
 msgid "``|auxiliaryStorage|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:401
 msgid "|history|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:856
+msgid "history"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:401
@@ -3092,12 +4504,20 @@ msgstr ""
 msgid "|stylePreset|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1270
+msgid "stylePreset"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:401
 msgid "``|stylePreset|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:402
 msgid "|search|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1181
+msgid "search"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:402
@@ -3108,12 +4528,20 @@ msgstr ""
 msgid "|pyramids|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1101
+msgid "pyramids"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:402
 msgid "``|pyramids|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:403
 msgid "|transparency|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1316
+msgid "transparency"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:403
@@ -3124,12 +4552,20 @@ msgstr ""
 msgid "|rasterHistogram|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1117
+msgid "rasterHistogram"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:403
 msgid "``|rasterHistogram|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:404
 msgid "|singleSymbol|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1245
+msgid "singleSymbol"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:404
@@ -3140,12 +4576,20 @@ msgstr ""
 msgid "|nullSymbol|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1041
+msgid "nullSymbol"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:404
 msgid "``|nullSymbol|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:405
 msgid "|graduatedSymbol|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:822
+msgid "graduatedSymbol"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:405
@@ -3156,12 +4600,20 @@ msgstr ""
 msgid "|categorizedSymbol|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:626
+msgid "categorizedSymbol"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:405
 msgid "``|categorizedSymbol|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:406
 msgid "|25dSymbol|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:486
+msgid "25dSymbol"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:406
@@ -3172,12 +4624,20 @@ msgstr ""
 msgid "|ruleBasedSymbol|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1165
+msgid "ruleBasedSymbol"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:406
 msgid "``|ruleBasedSymbol|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:407
 msgid "|invertedSymbol|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:901
+msgid "invertedSymbol"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:407
@@ -3188,12 +4648,20 @@ msgstr ""
 msgid "|heatmapSymbol|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:840
+msgid "heatmapSymbol"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:407
 msgid "``|heatmapSymbol|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:408
 msgid "|pointDisplacementSymbol|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1079
+msgid "pointDisplacementSymbol"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:408
@@ -3204,12 +4672,20 @@ msgstr ""
 msgid "|pointClusterSymbol|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1077
+msgid "pointClusterSymbol"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:408
 msgid "``|pointClusterSymbol|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:409
 msgid "|meshcontours|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:977
+msgid "meshcontours"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:409
@@ -3220,12 +4696,20 @@ msgstr ""
 msgid "|meshcontoursoff|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:979
+msgid "meshcontoursoff"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:409
 msgid "``|meshcontoursoff|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:410
 msgid "|meshvectors|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:983
+msgid "meshvectors"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:410
@@ -3236,12 +4720,20 @@ msgstr ""
 msgid "|meshvectorsoff|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:985
+msgid "meshvectorsoff"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:410
 msgid "``|meshvectorsoff|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:411
 msgid "|meshframe|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:981
+msgid "meshframe"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:411
@@ -3252,12 +4744,20 @@ msgstr ""
 msgid "|sum|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1274
+msgid "sum"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:412
 msgid "``|sum|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:412
 msgid "|sort|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1250
+msgid "sort"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:412
@@ -3268,12 +4768,20 @@ msgstr ""
 msgid "|paintEffects|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1059
+msgid "paintEffects"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:413
 msgid "``|paintEffects|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:413
 msgid "|mapIdentification|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:961
+msgid "mapIdentification"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:413
@@ -3284,12 +4792,20 @@ msgstr ""
 msgid "|styleManager|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1268
+msgid "styleManager"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:414
 msgid "``|styleManager|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:414
 msgid "|iconView|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:860
+msgid "iconView"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:414
@@ -3300,12 +4816,20 @@ msgstr ""
 msgid "|joinNotEditable|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:907
+msgid "joinNotEditable"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:415
 msgid "``|joinNotEditable|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:415
 msgid "|joinedLayerNotEditable|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:909
+msgid "joinedLayerNotEditable"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:415
@@ -3316,12 +4840,20 @@ msgstr ""
 msgid "|joinHasNotUpsertOnEdit|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:905
+msgid "joinHasNotUpsertOnEdit"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:416
 msgid "``|joinHasNotUpsertOnEdit|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:416
 msgid "|filterTableFields|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:791
+msgid "filterTableFields"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:416
@@ -3332,6 +4864,10 @@ msgstr ""
 msgid "|symbologyEdit|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1282
+msgid "symbologyEdit"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:417
 msgid "``|symbologyEdit|``"
 msgstr ""
@@ -3340,12 +4876,20 @@ msgstr ""
 msgid "|sharingImport|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1215
+msgid "sharingImport"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:418
 msgid "``|sharingImport|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:418
 msgid "|sharingExport|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1213
+msgid "sharingExport"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:418
@@ -3364,12 +4908,20 @@ msgstr ""
 msgid "|processing|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1083
+msgid "processing"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:431
 msgid "``|processing|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:431
 msgid "|processingModel|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1089
+msgid "processingModel"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:431
@@ -3380,12 +4932,20 @@ msgstr ""
 msgid "|processingHistory|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1087
+msgid "processingHistory"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:432
 msgid "``|processingHistory|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:432
 msgid "|processingResult|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1093
+msgid "processingResult"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:432
@@ -3396,12 +4956,20 @@ msgstr ""
 msgid "|processSelected|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1081
+msgid "processSelected"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:433
 msgid "``|processSelected|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:433
 msgid "|processingHelp|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1085
+msgid "processingHelp"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:433
@@ -3412,12 +4980,20 @@ msgstr ""
 msgid "|saveAsPython|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1171
+msgid "saveAsPython"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:434
 msgid "``|saveAsPython|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:434
 msgid "|processingOutput|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1091
+msgid "processingOutput"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:434
@@ -3428,12 +5004,20 @@ msgstr ""
 msgid "|qgsProjectFile|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1107
+msgid "qgsProjectFile"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:435
 msgid "``|qgsProjectFile|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:435
 msgid "|addToProject|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:560
+msgid "addToProject"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:435
@@ -3444,12 +5028,20 @@ msgstr ""
 msgid "|integer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:891
+msgid "integer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:436
 msgid "``|integer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:437
 msgid "|mean|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:965
+msgid "mean"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:437
@@ -3460,12 +5052,20 @@ msgstr ""
 msgid "|layerExtent|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:939
+msgid "layerExtent"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:437
 msgid "``|layerExtent|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:438
 msgid "|randomSelection|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1115
+msgid "randomSelection"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:438
@@ -3476,12 +5076,20 @@ msgstr ""
 msgid "|vectorGrid|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1328
+msgid "vectorGrid"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:438
 msgid "``|vectorGrid|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:439
 msgid "|convexHull|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:670
+msgid "convexHull"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:439
@@ -3492,12 +5100,20 @@ msgstr ""
 msgid "|buffer|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:608
+msgid "buffer"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:439
 msgid "``|buffer|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:440
 msgid "|intersect|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:897
+msgid "intersect"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:440
@@ -3508,12 +5124,20 @@ msgstr ""
 msgid "|union|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1322
+msgid "union"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:440
 msgid "``|union|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:441
 msgid "|symDifference|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1278
+msgid "symDifference"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:441
@@ -3524,12 +5148,20 @@ msgstr ""
 msgid "|clip|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:652
+msgid "clip"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:441
 msgid "``|clip|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:442
 msgid "|difference|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:724
+msgid "difference"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:442
@@ -3540,12 +5172,20 @@ msgstr ""
 msgid "|dissolve|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:730
+msgid "dissolve"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:442
 msgid "``|dissolve|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:443
 msgid "|checkGeometry|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:632
+msgid "checkGeometry"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:443
@@ -3556,12 +5196,20 @@ msgstr ""
 msgid "|exportGeometry|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:762
+msgid "exportGeometry"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:443
 msgid "``|exportGeometry|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:444
 msgid "|delaunay|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:702
+msgid "delaunay"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:444
@@ -3572,12 +5220,20 @@ msgstr ""
 msgid "|centroids|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:628
+msgid "centroids"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:444
 msgid "``|centroids|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:445
 msgid "|toLines|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1300
+msgid "toLines"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:445
@@ -3588,12 +5244,20 @@ msgstr ""
 msgid "|extractNodes|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:772
+msgid "extractNodes"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:445
 msgid "``|extractNodes|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:446
 msgid "|splitLayer|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1258
+msgid "splitLayer"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:446
@@ -3604,6 +5268,10 @@ msgstr ""
 msgid "|heatmap|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:838
+msgid "heatmap"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:446
 msgid "``|heatmap|``"
 msgstr ""
@@ -3612,12 +5280,20 @@ msgstr ""
 msgid "|showRasterCalculator|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1233
+msgid "showRasterCalculator"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:447
 msgid "``|showRasterCalculator|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:447
 msgid "|showMeshCalculator|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1227
+msgid "showMeshCalculator"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:447
@@ -3636,12 +5312,20 @@ msgstr ""
 msgid "|showPluginManager|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1231
+msgid "showPluginManager"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:458
 msgid "``|showPluginManager|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:458
 msgid "|installPluginFromZip|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:889
+msgid "installPluginFromZip"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:458
@@ -3652,12 +5336,20 @@ msgstr ""
 msgid "|pythonFile|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1103
+msgid "pythonFile"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:459
 msgid "``|pythonFile|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:459
 msgid "|runConsole|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1167
+msgid "runConsole"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:459
@@ -3668,12 +5360,20 @@ msgstr ""
 msgid "|showEditorConsole|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1221
+msgid "showEditorConsole"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:460
 msgid "``|showEditorConsole|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:460
 msgid "|clearConsole|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:650
+msgid "clearConsole"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:460
@@ -3684,12 +5384,20 @@ msgstr ""
 msgid "|offlineEditingCopy|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1043
+msgid "offlineEditingCopy"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:461
 msgid "``|offlineEditingCopy|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:461
 msgid "|offlineEditingSync|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1045
+msgid "offlineEditingSync"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:461
@@ -3700,12 +5408,20 @@ msgstr ""
 msgid "|plugin|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:1075
+msgid "plugin"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:462
 msgid "``|plugin|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:462
 msgid "|interpolation|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:895
+msgid "interpolation"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:462
@@ -3716,12 +5432,20 @@ msgstr ""
 msgid "|gdalScript|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:807
+msgid "gdalScript"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:463
 msgid "``|gdalScript|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:463
 msgid "|metasearch|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:989
+msgid "metasearch"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:463
@@ -3732,12 +5456,20 @@ msgstr ""
 msgid "|geometryChecker|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:814
+msgid "geometryChecker"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:464
 msgid "``|geometryChecker|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:464
 msgid "|topologyChecker|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1308
+msgid "topologyChecker"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:464
@@ -3748,12 +5480,20 @@ msgstr ""
 msgid "|fromSelectedFeature|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:801
+msgid "fromSelectedFeature"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:465
 msgid "``|fromSelectedFeature|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:465
 msgid "|sqlQueryBuilder|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:1262
+msgid "sqlQueryBuilder"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:465
@@ -3768,12 +5508,20 @@ msgstr ""
 msgid "|grass|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:824
+msgid "grass"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:474
 msgid "``|grass|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:474
 msgid "|grassRegion|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:832
+msgid "grassRegion"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:474
@@ -3784,12 +5532,20 @@ msgstr ""
 msgid "|grassTools|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:834
+msgid "grassTools"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:475
 msgid "``|grassTools|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:475
 msgid "|grassNewMapset|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:828
+msgid "grassNewMapset"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:475
@@ -3800,12 +5556,20 @@ msgstr ""
 msgid "|grassOpenMapset|"
 msgstr ""
 
+#: ../../docs/documentation_guidelines/substitutions.rst:830
+msgid "grassOpenMapset"
+msgstr ""
+
 #: ../../docs/documentation_guidelines/substitutions.rst:476
 msgid "``|grassOpenMapset|``"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:476
 msgid "|grassCloseMapset|"
+msgstr ""
+
+#: ../../docs/documentation_guidelines/substitutions.rst:826
+msgid "grassCloseMapset"
 msgstr ""
 
 #: ../../docs/documentation_guidelines/substitutions.rst:476

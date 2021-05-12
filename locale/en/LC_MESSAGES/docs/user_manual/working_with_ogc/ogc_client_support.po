@@ -9,14 +9,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Documentation 3.16\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-05 09:58+0000\n"
+"POT-Creation-Date: 2021-05-12 02:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:5
 msgid "Working with OGC / ISO protocols"
@@ -248,6 +248,10 @@ msgid ""
 "toolbar, or selecting :menuselection:`Layer --> Add WMS Layer...`."
 msgstr ""
 
+#: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:724
+msgid "addWmsLayer"
+msgstr ""
+
 #: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:164
 msgid ""
 "The dialog :guilabel:`Add Layer(s) from a Server` for adding layers from "
@@ -311,6 +315,10 @@ msgid ""
 "given URI from URL field above."
 msgstr ""
 
+#: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:726
+msgid "checkbox"
+msgstr ""
+
 #: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:194
 msgid "Ignore GetFeatureInfo URI"
 msgstr ""
@@ -334,6 +342,10 @@ msgid ""
 "setting |checkbox| :guilabel:`Use proxy for web access`. Make sure that "
 "you select the correct proxy type from the :guilabel:`Proxy type` "
 "|selectString| drop-down menu."
+msgstr ""
+
+#: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:734
+msgid "selectString"
 msgstr ""
 
 #: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:210
@@ -591,6 +603,10 @@ msgid ""
 "the tile server with a nice slider docked in."
 msgstr ""
 
+#: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:732
+msgid "kde"
+msgstr ""
+
 #: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:391
 msgid "Using the Identify Tool"
 msgstr ""
@@ -602,6 +618,10 @@ msgid ""
 " a pixel on the map canvas. A query is made to the WMS server for each "
 "selection made. The results of the query are returned in plain text. The "
 "formatting of this text is dependent on the particular WMS server used."
+msgstr ""
+
+#: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:730
+msgid "identify"
 msgstr ""
 
 #: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:403
@@ -856,6 +876,10 @@ msgid ""
 " and other query criteria."
 msgstr ""
 
+#: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:738
+msgid "wcs"
+msgstr ""
+
 #: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:587
 msgid ""
 "QGIS has a native WCS provider and supports both version 1.0 and 1.1 "
@@ -917,8 +941,16 @@ msgid ""
 "|dataSourceManager| :sup:`Open Data Source Manager` button"
 msgstr ""
 
+#: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:728
+msgid "dataSourceManager"
+msgstr ""
+
 #: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:633
 msgid "Enable the |addWfsLayer| :guilabel:`WFS/OGC API-Features` tab"
+msgstr ""
+
+#: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:722
+msgid "addWfsLayer"
 msgstr ""
 
 #: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:634
@@ -1029,6 +1061,10 @@ msgid ""
 "|unchecked| :guilabel:`Use title for layer name`, showing the layer's "
 "title as defined on the server in the :guilabel:`Layers` panel instead of"
 " its :guilabel:`Name`"
+msgstr ""
+
+#: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:736
+msgid "unchecked"
 msgstr ""
 
 #: ../../docs/user_manual/working_with_ogc/ogc_client_support.rst:689

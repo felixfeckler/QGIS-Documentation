@@ -9,14 +9,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Documentation 3.16\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-05 09:58+0000\n"
+"POT-Creation-Date: 2021-05-12 02:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../docs/user_manual/introduction/general_tools.rst:8
 msgid "General Tools"
@@ -77,14 +77,26 @@ msgid ""
 "styling panel on and off."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2658
+msgid "symbology"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:62
 msgid "|addGroup| :sup:`Add new group`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2474
+msgid "addGroup"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:63
 msgid ""
 "|showMapTheme| :sup:`Manage Map Themes`: control visibility of layers and"
 " arrange them in different map themes."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2646
+msgid "showMapTheme"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:65
@@ -97,6 +109,10 @@ msgid ""
 " your area of interest."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2540
+msgid "filterMap"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:70
 msgid ""
 "|expressionFilter| :sup:`Filter Legend by Expression`: apply an "
@@ -106,14 +122,30 @@ msgid ""
 " list, you can edit and clear the expression currently applied."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2534
+msgid "expressionFilter"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:75
 msgid ""
 "|expandTree| :sup:`Expand All` or |collapseTree| :sup:`Collapse All` "
 "layers and groups in the layers panel."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2530
+msgid "expandTree"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2492
+msgid "collapseTree"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:77
 msgid "|removeLayer| :sup:`Remove Layer/Group` currently selected."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2616
+msgid "removeLayer"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:84
@@ -141,16 +173,32 @@ msgstr ""
 msgid "|showAllLayers| :guilabel:`Show All Layers`"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2642
+msgid "showAllLayers"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:101
 msgid "|hideAllLayers| :guilabel:`Hide All Layers`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2550
+msgid "hideAllLayers"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:102
 msgid "|showSelectedLayers| :guilabel:`Show Selected Layers`"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2648
+msgid "showSelectedLayers"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:103
 msgid "|hideSelectedLayers| :guilabel:`Hide Selected Layers`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2554
+msgid "hideSelectedLayers"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:104
@@ -161,6 +209,10 @@ msgid ""
 "shortcut."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2668
+msgid "toggleSelectedLayers"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:107
 msgid ""
 ":guilabel:`Toggle Selected Layers Independently`: changes the visibility "
@@ -169,6 +221,10 @@ msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:109
 msgid "|hideDeselectedLayers| :guilabel:`Hide Deselected Layers`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2552
+msgid "hideDeselectedLayers"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:111
@@ -313,6 +369,10 @@ msgstr ""
 msgid "|zoomToLayer| :guilabel:`Zoom to Layer/Group`"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2682
+msgid "zoomToLayer"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:176
 #: ../../docs/user_manual/introduction/general_tools.rst:177
 #: ../../docs/user_manual/introduction/general_tools.rst:178
@@ -401,6 +461,10 @@ msgstr ""
 msgid "|checkbox|"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2490
+msgid "checkbox"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:177
 msgid "|zoomToLayer| :guilabel:`Zoom to Selection`"
 msgstr ""
@@ -453,6 +517,10 @@ msgstr ""
 msgid "|inOverview| :guilabel:`Show in Overview`"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2570
+msgid "inOverview"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:179
 msgid ":guilabel:`Show Feature Count`"
 msgstr ""
@@ -469,6 +537,10 @@ msgstr ""
 msgid "|zoomActual| :guilabel:`Zoom to Native Resolution (100%)`"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2674
+msgid "zoomActual"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:183
 msgid ":guilabel:`Stretch Using Current Extent`"
 msgstr ""
@@ -477,12 +549,20 @@ msgstr ""
 msgid "|dbManager| :guilabel:`Update SQL Layer...`"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2514
+msgid "dbManager"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:185
 msgid "|addGroup| :guilabel:`Add Group`"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:186
 msgid "|duplicateLayer| :guilabel:`Duplicate Layer`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2522
+msgid "duplicateLayer"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:187
@@ -513,12 +593,24 @@ msgstr ""
 msgid "|openTable| :guilabel:`Open Attribute Table`"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2604
+msgid "openTable"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:194
 msgid "|toggleEditing| :guilabel:`Toggle Editing`"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2666
+msgid "toggleEditing"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:195
 msgid "|allEdits| :menuselection:`Current Edits -->`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2482
+msgid "allEdits"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:196
@@ -571,6 +663,10 @@ msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:208
 msgid "|unchecked| :guilabel:`Mutually Exclusive Group`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2672
+msgid "unchecked"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:209
@@ -673,6 +769,10 @@ msgid ""
 "the group."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2542
+msgid "folder"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:247
 msgid ""
 "Select some layers, right-click in the legend window and choose "
@@ -755,11 +855,19 @@ msgid ""
 "changes"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2526
+msgid "editableEdits"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:293
 msgid ""
 "|indicatorFilter| to indicate :ref:`a filter <vector_query_builder>` "
 "applied to the layer. Hover over the icon to see the filter expression "
 "and double-click to update the setting"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2576
+msgid "indicatorFilter"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:296
@@ -768,10 +876,18 @@ msgid ""
 "<project_layer_capabilities>` in the project, hence non removable"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2582
+msgid "indicatorNonRemovable"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:298
 msgid ""
 "|indicatorEmbedded| to identify an :ref:`embedded group or layer "
 "<nesting_projects>` and the path to their original project file"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2574
+msgid "indicatorEmbedded"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:300
@@ -780,6 +896,10 @@ msgid ""
 "available at the project file opening (see :ref:`handle_broken_paths`). "
 "Click the icon to update the source path or select :guilabel:`Repair Data"
 " Source...` entry from the layer contextual menu."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2572
+msgid "indicatorBadLayer"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:304
@@ -791,14 +911,26 @@ msgid ""
 "vector formats supported by QGIS."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2578
+msgid "indicatorMemory"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:308
 msgid "|indicatorNoCRS| to identify a layer that has no/unknown CRS"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2580
+msgid "indicatorNoCRS"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:309
 msgid ""
 "|indicatorTemporal| to identify a temporal layer controlled by canvas "
 "animation"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2584
+msgid "indicatorTemporal"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:316
@@ -874,6 +1006,10 @@ msgid ""
 "avoid (un)checking items one by one."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2664
+msgid "toggleAllLayers"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:356
 msgid ""
 "Double-clicking a class leaf entry also opens the :guilabel:`Symbol "
@@ -918,11 +1054,27 @@ msgid ""
 ":ref:`raster_properties_dialog`."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2670
+msgid "transparency"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2612
+msgid "rasterHistogram"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:386
 msgid ""
 "Set vector layer |symbology| :guilabel:`Symbology`, |3d| :guilabel:`3D "
 "View` and |labeling| :guilabel:`Labels` properties. These options are the"
 " same as those in the :ref:`vector_properties_dialog`."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2470
+msgid "3d"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2588
+msgid "labeling"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:389
@@ -931,11 +1083,19 @@ msgid ""
 "Manager` (more details at :ref:`manage_custom_style`)."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2654
+msgid "stylePreset"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:391
 msgid ""
 "See the |history| :guilabel:`History` of changes you applied to the layer"
 " style in the current project: you can therefore cancel or restore to any"
 " state by selecting it in the list and clicking :guilabel:`Apply`."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2556
+msgid "history"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:395
@@ -1029,6 +1189,10 @@ msgid ""
 "icon in the bottom status bar."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2598
+msgid "messageLog"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:486
 msgid "Undo/Redo Panel"
 msgstr ""
@@ -1059,6 +1223,10 @@ msgstr ""
 msgid ""
 "the column to use, or an |expression| :ref:`expression "
 "<vector_expressions>`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2532
+msgid "expression"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:507
@@ -1186,10 +1354,18 @@ msgid ""
 "changes (eg, new or removed features/fields, attribute modification)"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2614
+msgid "refresh"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:544
 msgid ""
 "|editCopy| copied to the clipboard and pasted as a table in another "
 "application"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2524
+msgid "editCopy"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:551
@@ -1253,6 +1429,10 @@ msgstr ""
 msgid ""
 "Hold down :kbd:`Ctrl` ( or |osx| :kbd:`Cmd`) and click on the layers and "
 "groups you wish to retrieve"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2608
+msgid "osx"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:583
@@ -1351,6 +1531,10 @@ msgid ""
 "The |mapIdentification| :sup:`Set to current canvas scale` button allow "
 "you to use the current map canvas scale as boundary of the range "
 "visibility."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2590
+msgid "mapIdentification"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:651
@@ -1508,6 +1692,22 @@ msgid ""
 "scale behavior while zooming."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2610
+msgid "pan"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2676
+msgid "zoomIn"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2678
+msgid "zoomOut"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2606
+msgid "options"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:767
 msgid "With the mouse wheel"
 msgstr ""
@@ -1582,6 +1782,14 @@ msgid ""
 "click the |showBookmarks| :guilabel:`Spatial Bookmarks` entry in the "
 ":guilabel:`Browser` panel and select :guilabel:`New Spatial Bookmark`. "
 "The :guilabel:`Bookmark Editor` dialog opens."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2600
+msgid "newBookmark"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2644
+msgid "showBookmarks"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:827
@@ -1667,6 +1875,10 @@ msgid ""
 " :guilabel:`Zoom to bookmark` button."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2680
+msgid "zoomToBookmark"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:868
 msgid ""
 "Double-click on it, drag and drop it to the map canvas, or right-click "
@@ -1681,6 +1893,10 @@ msgstr ""
 msgid ""
 "Select the bookmark and click the |deleteSelected| :guilabel:`Delete "
 "bookmark` button. Confirm your choice."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2516
+msgid "deleteSelected"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:873
@@ -1700,6 +1916,14 @@ msgid ""
 "are saved in an xml file."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2636
+msgid "sharing"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2638
+msgid "sharingExport"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:879
 msgid ""
 "Select one or more folders (user or project) or subfolders (groups), then"
@@ -1716,6 +1940,10 @@ msgid ""
 "Click the |sharing| :guilabel:`Import/Export Bookmarks` button and select"
 " |sharingImport| :guilabel:`Import`. All bookmarks in the XML file are "
 "imported as user bookmarks."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2640
+msgid "sharingImport"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:886
@@ -1777,6 +2005,10 @@ msgstr ""
 msgid ""
 "|addGrid| :guilabel:`Grid` allows you to add a coordinate grid and "
 "coordinate annotations to the map canvas."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2472
+msgid "addGrid"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:924
@@ -1898,6 +2130,10 @@ msgid ""
 " a **Title**."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2662
+msgid "titleLabel"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:977
 msgid "To add a Title Label decoration:"
 msgstr ""
@@ -1964,6 +2200,10 @@ msgid ""
 " map with a **Copyright** label."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2502
+msgid "copyrightLabel"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1018
 msgid "To add this decoration:"
 msgstr ""
@@ -2004,6 +2244,10 @@ msgstr ""
 msgid ""
 "|addImage| :guilabel:`Image` allows you to add an image (logo, legend, "
 "..) on the map canvas."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2476
+msgid "addImage"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1056
@@ -2075,6 +2319,10 @@ msgid ""
 "the map canvas."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2602
+msgid "northArrow"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1092
 msgid "To add a north arrow:"
 msgstr ""
@@ -2126,6 +2374,10 @@ msgid ""
 " of the bar."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2618
+msgid "scaleBar"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1124
 msgid ""
 "QGIS only supports displaying the scale in the same units as your map "
@@ -2158,12 +2410,20 @@ msgid ""
 "box"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2634
+msgid "selectString"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1143
 msgid ""
 "Select the :guilabel:`Color of bar` |selectColor| by choosing a fill "
 "color (default: black) and an outline color (default: white). The scale "
 "bar fill and outline can be made opaque by clicking on the down arrow to "
 "the right of the color input."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2622
+msgid "selectColor"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1147
@@ -2174,6 +2434,10 @@ msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1148
 msgid "Set the :guilabel:`Size of bar` |selectNumber|"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2626
+msgid "selectNumber"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1149
@@ -2210,6 +2474,10 @@ msgid ""
 "extents. This decoration is useful when you are tweaking the positioning "
 "of map elements such as labels, and need to know the actual visible "
 "region of print layouts."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2478
+msgid "addMap"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1175
@@ -2268,14 +2536,26 @@ msgstr ""
 msgid "|textAnnotation| :sup:`Text Annotation` for custom formatted text"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2660
+msgid "textAnnotation"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1219
 msgid ""
 "|htmlAnnotation| :sup:`HTML Annotation` to place the content of an "
 ":file:`html` file"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2558
+msgid "htmlAnnotation"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1221
 msgid "|svgAnnotation| :sup:`SVG Annotation` to add an :file:`SVG` symbol"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2656
+msgid "svgAnnotation"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1222
@@ -2287,6 +2567,10 @@ msgid ""
 "this video "
 "https://www.youtube.com/watch?v=0pDBuSbQ02o&feature=youtu.be&t=2m25s from"
 " Tim Sutton for more information."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2544
+msgid "formAnnotation"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1234
@@ -2353,6 +2637,10 @@ msgid ""
 "allows you to move the balloon on the map canvas."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2484
+msgid "annotation"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1273
 msgid ""
 "To delete an annotation, select it and either press the :kbd:`Del` or "
@@ -2404,8 +2692,16 @@ msgstr ""
 msgid "interactive measurement tools |measure|"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2592
+msgid "measure"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1303
 msgid "measuring in the |calculateField| :sup:`Field Calculator`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2488
+msgid "calculateField"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1304
@@ -2463,6 +2759,14 @@ msgid ""
 "|measureArea| area or |measureAngle| angle. The default unit used in the "
 "dialog is the one set in :menuselection:`Project --> Properties... --> "
 "General` menu."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2596
+msgid "measureArea"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2594
+msgid "measureAngle"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1336
@@ -2580,16 +2884,32 @@ msgstr ""
 msgid "|selectRectangle| :sup:`Select Features by area or single click`"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2632
+msgid "selectRectangle"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1447
 msgid "|selectPolygon| :sup:`Select Features by Polygon`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2628
+msgid "selectPolygon"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1448
 msgid "|selectFreehand| :sup:`Select Features by Freehand`"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2624
+msgid "selectFreehand"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1449
 msgid "|selectRadius| :sup:`Select Features by Radius`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2630
+msgid "selectRadius"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1451
@@ -2669,8 +2989,16 @@ msgid ""
 "expression dialog"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2536
+msgid "expressionSelect"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1494
 msgid "|formSelect| :sup:`Select Features By Value...` or press :kbd:`F3`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2546
+msgid "formSelect"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1495
@@ -2679,10 +3007,18 @@ msgid ""
 ":kbd:`Ctrl+Alt+A` to deselect all selected features in all layers"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2520
+msgid "deselectAll"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1497
 msgid ""
 "|deselectActiveLayer| :sup:`Deselect Features from the Current Active "
 "Layer` or press :kbd:`Ctrl+Shift+A`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2518
+msgid "deselectActiveLayer"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1499
@@ -2691,10 +3027,18 @@ msgid ""
 "all features in the current layer"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2620
+msgid "selectAll"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1501
 msgid ""
 "|invertSelection| :sup:`Invert Feature Selection` to invert the selection"
 " in the current layer"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2586
+msgid "invertSelection"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1503
@@ -2702,6 +3046,10 @@ msgid ""
 "|algorithmSelectLocation| :sup:`Select by Location` to select the "
 "features based on their spatial relationship with other features (in the "
 "same or another layer - see :ref:`qgisselectbylocation`)"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2480
+msgid "algorithmSelectLocation"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1507
@@ -2921,6 +3269,10 @@ msgstr ""
 msgid "|identify| :sup:`Identify Features` icon on the Attributes toolbar"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2560
+msgid "identify"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1617
 msgid "Using the Identify Features tool"
 msgstr ""
@@ -3092,6 +3444,10 @@ msgstr ""
 msgid "|formView| :sup:`Open Form` of the current feature"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2548
+msgid "formView"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1709
 msgid "|expandTree| :sup:`Expand tree`"
 msgstr ""
@@ -3106,6 +3462,10 @@ msgid ""
 "the next identified feature's information should be collapsed or expanded"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2528
+msgid "expandNewTree"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1713
 msgid "|deselectAll| :sup:`Clear Results`"
 msgstr ""
@@ -3118,6 +3478,10 @@ msgstr ""
 msgid "|filePrint| :sup:`Print selected HTML response`"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2538
+msgid "filePrint"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1719
 msgid "selection mode to use to fetch features to identify:"
 msgstr ""
@@ -3126,16 +3490,32 @@ msgstr ""
 msgid "|identifyByRectangle| :sup:`Identify Features by area or single click`"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2568
+msgid "identifyByRectangle"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1722
 msgid "|identifyByPolygon| :sup:`Identify Features by Polygon`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2564
+msgid "identifyByPolygon"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1723
 msgid "|identifyByFreehand| :sup:`Identify Features by Freehand`"
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2562
+msgid "identifyByFreehand"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:1724
 msgid "|identifyByRadius| :sup:`Identify Features by Radius`"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2566
+msgid "identifyByRadius"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:1727
@@ -3643,6 +4023,22 @@ msgid ""
 "item."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2494
+msgid "colorBox"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2500
+msgid "colorWheel"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2498
+msgid "colorSwatches"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2496
+msgid "colorPicker"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:2058
 msgid "Color selector ramp tab"
 msgstr ""
@@ -3654,6 +4050,14 @@ msgid ""
 "the :guilabel:`Recent colors` palette can be modified with the |signPlus|"
 " :sup:`Add current color` and |signMinus| :sup:`Remove selected color` "
 "buttons at the bottom of the frame."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2652
+msgid "signPlus"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2650
+msgid "signMinus"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:2067
@@ -3715,6 +4119,10 @@ msgid ""
 "selected). Using drag-and-drop or pressing the |atlasNext| :sup:`Add "
 "color to swatch` button, any of these colors can be saved in a slot for "
 "easy access."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2486
+msgid "atlasNext"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:2107
@@ -3787,6 +4195,10 @@ msgid ""
 "As for the colors, pressing the |selectColorRamp| color ramp button opens"
 " the corresponding color ramp type dialog allowing you to change its "
 "properties."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2623
+msgid "selectColorRamp"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:2157
@@ -4224,6 +4636,10 @@ msgid ""
 "(checkbox, textbox, slider...)."
 msgstr ""
 
+#: ../../docs/user_manual/introduction/general_tools.rst:2512
+msgid "dataDefined"
+msgstr ""
+
 #: ../../docs/user_manual/introduction/general_tools.rst:2377
 msgid "The data defined override widget"
 msgstr ""
@@ -4298,6 +4714,22 @@ msgid ""
 "When the data-defined override option is set up correctly the icon is "
 "yellow |dataDefineOn| or |dataDefineExpressionOn|. If it is broken, the "
 "icon is red |dataDefineError| or |dataDefineExpressionError|."
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2510
+msgid "dataDefineOn"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2508
+msgid "dataDefineExpressionOn"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2504
+msgid "dataDefineError"
+msgstr ""
+
+#: ../../docs/user_manual/introduction/general_tools.rst:2506
+msgid "dataDefineExpressionError"
 msgstr ""
 
 #: ../../docs/user_manual/introduction/general_tools.rst:2409

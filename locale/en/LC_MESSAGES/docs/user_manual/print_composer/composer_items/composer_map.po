@@ -9,14 +9,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: QGIS Documentation 3.16\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-05 09:58+0000\n"
+"POT-Creation-Date: 2021-05-12 02:37+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.9.0\n"
+"Generated-By: Babel 2.9.1\n"
 
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:5
 msgid "The Map Item"
@@ -29,6 +29,10 @@ msgid ""
 ":ref:`items creation instructions <create_layout_item>` to add a new map "
 "item that you can later manipulate the same way as exposed in "
 ":ref:`interact_layout_item`."
+msgstr ""
+
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:405
+msgid "addMap"
 msgstr ""
 
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:19
@@ -58,20 +62,40 @@ msgstr ""
 msgid "|refresh| :sup:`Update map preview`"
 msgstr ""
 
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:423
+msgid "refresh"
+msgstr ""
+
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:40
 msgid "|setToCanvasExtent| :sup:`Set map canvas to match main canvas extent`"
+msgstr ""
+
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:425
+msgid "setToCanvasExtent"
 msgstr ""
 
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:41
 msgid "|viewExtentInCanvas| :sup:`View current map extent in main canvas`"
 msgstr ""
 
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:439
+msgid "viewExtentInCanvas"
+msgstr ""
+
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:42
 msgid "|setToCanvasScale| :sup:`Set map scale to match main canvas scale`"
 msgstr ""
 
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:427
+msgid "setToCanvasScale"
+msgstr ""
+
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:43
 msgid "|viewScaleInCanvas| :sup:`Set main canvas to match current map scale`"
+msgstr ""
+
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:441
+msgid "viewScaleInCanvas"
 msgstr ""
 
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:44
@@ -80,16 +104,28 @@ msgid ""
 "existing spatial bookmark"
 msgstr ""
 
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:429
+msgid "showBookmarks"
+msgstr ""
+
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:46
 msgid ""
 "|moveItemContent| :sup:`Interactively edit map extent`: pan and zoom "
 "interactively within the map item"
 msgstr ""
 
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:417
+msgid "moveItemContent"
+msgstr ""
+
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:49
 msgid ""
 "|labeling| :sup:`Labeling settings`: control feature label behaviour "
 "(placement, visibility...) in the layout map item extent:"
+msgstr ""
+
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:415
+msgid "labeling"
 msgstr ""
 
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:52
@@ -105,6 +141,10 @@ msgid ""
 "extent should be rendered. If checked, these labels will be shown (when "
 "there’s no way to place them fully within the visible area). If unchecked"
 " then partially visible labels will be skipped."
+msgstr ""
+
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:437
+msgid "unchecked"
 msgstr ""
 
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:59
@@ -172,6 +212,10 @@ msgid ""
 "map canvas."
 msgstr ""
 
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:411
+msgid "checkbox"
+msgstr ""
+
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:96
 msgid "Layers"
 msgstr ""
@@ -228,6 +272,10 @@ msgid ""
 "seen above."
 msgstr ""
 
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:431
+msgid "showMapTheme"
+msgstr ""
+
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:140
 msgid ""
 "Note that, unlike the :guilabel:`Follow map theme` option, if the "
@@ -244,6 +292,10 @@ msgid ""
 " pass a list of layers separated by ``|`` character. The following "
 "example locks the map item to use only layers ``layer 1`` and ``layer "
 "2``::"
+msgstr ""
+
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:413
+msgid "dataDefined"
 msgstr ""
 
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:156
@@ -304,11 +356,19 @@ msgid ""
 "scale;"
 msgstr ""
 
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:421
+msgid "radioButtonOn"
+msgstr ""
+
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:198
 msgid ""
 "|radioButtonOff| :guilabel:`Predefined scale (best fit)`: zooms to the "
 "feature at the project :ref:`predefined scale <predefinedscales>` where "
 "the atlas feature best fits;"
+msgstr ""
+
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:419
+msgid "radioButtonOff"
 msgstr ""
 
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:201
@@ -337,11 +397,27 @@ msgid ""
 "selected grid;"
 msgstr ""
 
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:435
+msgid "signPlus"
+msgstr ""
+
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:433
+msgid "signMinus"
+msgstr ""
+
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:218
 msgid ""
 "With the |arrowUp| and |arrowDown| buttons you can move up and down a "
 "grid in the list, hence move it on top or bottom of another one, over the"
 " map item."
+msgstr ""
+
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:409
+msgid "arrowUp"
+msgstr ""
+
+#: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:407
+msgid "arrowDown"
 msgstr ""
 
 #: ../../docs/user_manual/print_composer/composer_items/composer_map.rst:221
